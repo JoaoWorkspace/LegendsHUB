@@ -31,3 +31,11 @@
 
 
 ### This tool is meant for players like me whose goal is to have the full collection as fast as possible so for that to happen, Legendaries even if they're bad (Lich's Ascension) will be always be preferred over an Epic, Rare or Common, since those have higher chance of getting caught in packs. This means it's better to craft a Lich's Ascension than a tier 5 epic, for example. Value over Quality.
+
+# FUTURE
+## 3-Modes Option: [Vote Here](https://strawpoll.com/3xycg3dy)
+### Option to choose between Normal, Chaos(All cards get equal odds) and Helpful(Only the best possible card(s) get recommended).
+
+## Edit Collection - Show Card on-click: [Vote Here](https://strawpoll.com/d3ezeg9r)
+### When you click on the card name in the Edit Table (below) it will open the card image.
+![image](https://user-images.githubusercontent.com/37052744/41306167-1fa3bb48-6e6d-11e8-8dd9-7e332a3dfab8.png)
