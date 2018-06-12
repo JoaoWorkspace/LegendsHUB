@@ -35,7 +35,7 @@
 # FUTURE
 ## 3-Modes Option: [Vote Here](https://strawpoll.com/3xycg3dy)
 ### Option to choose between Normal, Chaos(All cards get equal odds) and Helpful(Only the best possible card(s) get recommended).
-
+![image](https://user-images.githubusercontent.com/37052744/41306456-22b383da-6e6e-11e8-979c-804ed9910494.png)
 ## Edit Collection - Show Card on-click: [Vote Here](https://strawpoll.com/d3ezeg9r)
 ### When you click on the card name in the Edit Table (below) it will open the card image.
 ![image](https://user-images.githubusercontent.com/37052744/41306167-1fa3bb48-6e6d-11e8-8dd9-7e332a3dfab8.png)
