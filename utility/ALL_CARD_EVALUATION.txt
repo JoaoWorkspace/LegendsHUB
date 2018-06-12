@@ -1,0 +1,133 @@
+A Land Divided : LEGENDARY : 2 : 3 : Heroes of Skyrim
+Adoring Fan : UNIQUELEGENDARY : 0 : 1 : Core
+Aela de Huntress : UNIQUELEGENDARY : 0 : 1 : Heroes of Skyrim
+Ahnassi : UNIQUELEGENDARY : 4 : 1 : Core
+Aldora the Daring : UNIQUELEGENDARY : 0 : 1 : Return to Clockwork City
+Alduin : UNIQUELEGENDARY : 0 : 1 : Heroes of Skyrim
+Allena Benoch : UNIQUELEGENDARY : 5 : 1 : Core
+Almalexia : UNIQUELEGENDARY : 2 : 1 : Houses of Morrowind
+Altar of Despair : LEGENDARY : 0 : 3 : Madhouse
+Ancano : UNIQUELEGENDARY : 0 : 1 : Heroes of Skyrim
+Archcanon Saryoni : UNIQUELEGENDARY : 0 : 1 : Houses of Morrowind
+Aspect of Hircine : LEGENDARY : 4 : 3 : Houses of Morrowind
+Assembled Titan : UNIQUELEGENDARY : 0 : 1 : Return to Clockwork City
+Astrid : UNIQUELEGENDARY : 0 : 1 : The Fall of the Dark Brotherhood
+Aundae Clan Sorcerer : LEGENDARY : 3 : 3 : Houses of Morrowind
+Auroran Sentry : LEGENDARY : 2 : 3 : Core
+Ayrenn : UNIQUELEGENDARY : 5 : 1 : Core
+Balmora Captain : LEGENDARY : 2 : 3 : Houses of Morrowind
+Barbas : UNIQUELEGENDARY : 3 : 1 : Heroes of Skyrim
+Berne Clan Nightstalker : LEGENDARY : 5 : 3 : Houses of Morrowind
+Black Marsh Warden : LEGENDARY : 3 : 3 : Core
+Blood Dragon : LEGENDARY : 4 : 3 : Core
+Blood Magic Lord : LEGENDARY : 5 : 3 : Core
+Bolvyn Venim : UNIQUELEGENDARY : 0 : 1 : Houses of Morrowind
+Bone Colossus : LEGENDARY : 5 : 3 : Core
+Bringer of Nightmares : LEGENDARY : 3 : 3 : Heroes of Skyrim
+Brynjolf : UNIQUELEGENDARY : 0 : 1 : Heroes of Skyrim
+Caius Cosades : UNIQUELEGENDARY : 3 : 1 : Houses of Morrowind
+Chodala's Treachery : LEGENDARY : 4 : 3 : Houses of Morrowind
+Cicero the Betrayer : UNIQUELEGENDARY : 0 : 1 : The Fall of the Dark Brotherhood
+Cliff Racer Onslaught : LEGENDARY : 1 : 3 : Houses of Morrowind
+College of Winterhold : UNIQUELEGENDARY : 3 : 1 : Heroes of Skyrim
+Daggerfall Mage : LEGENDARY : 5 : 3 : Core
+Dagoth Ur : UNIQUELEGENDARY : 0 : 1 : Houses of Morrowind
+Dawn's Wrath : LEGENDARY : 5 : 3 : Core
+Dawnbreaker : UNIQUELEGENDARY : 5 : 1 : Core
+Descendant of Alkosh : LEGENDARY : 3 : 3 : Core
+Divayth Fyr : UNIQUELEGENDARY : 3 : 1 : Core
+Doomcrag Vampire : LEGENDARY : 5 : 3 : Core
+Dragon Mound : UNIQUELEGENDARY : 1 : 1 : Heroes of Skyrim
+Dremora Markynaz : LEGENDARY : 2 : 3 : Core
+Duke Vedam Dren : UNIQUELEGENDARY : 0 : 1 : Houses of Morrowind
+Ebonheart Oracle : LEGENDARY : 5 : 3 : Houses of Morrowind
+Echo of Akatosh : LEGENDARY : 2 : 3 : Heroes of Skyrim
+Emperor Titus Mede II : UNIQUELEGENDARY : 2 : 1 : Heroes of Skyrim
+Enamor's Keeper : LEGENDARY : 5 : 3 : Houses of Morrowind
+Frost Giant : LEGENDARY : 2 : 3 : Heroes of Skyrim
+Galyn the Shelterer : UNIQUELEGENDARY : 0 : 1 : Return to Clockwork City
+Garnag, Dark Adherent : UNIQUELEGENDARY : 0 : 1 : The Fall of the Dark Brotherhood
+General Tullius : UNIQUELEGENDARY : 3 : 1 : Core
+Genius Pathmage : LEGENDARY : 3 : 3 : Houses of Morrowind
+Gentleman Jim Stacey : UNIQUELEGENDARY : 4 : 1 : Houses of Morrowind
+Goldbrand : UNIQUELEGENDARY : 4 : 1 : Core
+Gortwog gro-Nagorm : UNIQUELEGENDARY : 4 : 1 : Core
+Haafingar Marauder : LEGENDARY : 5 : 3 : Core
+High Hrothgar : UNIQUELEGENDARY : 2 : 1 : Heroes of Skyrim
+High King Emeric : UNIQUELEGENDARY : 5 : 1 : Core
+Indoril Archmage : LEGENDARY : 3 : 3 : Core
+Innkeeper Delphine : UNIQUELEGENDARY : 2 : 1 : Heroes of Skyrim
+Iron Atronach : LEGENDARY : 2 : 3 : Core
+J'zargo : UNIQUELEGENDARY : 3 : 1 : Heroes of Skyrim
+Jarl Balgruuf : UNIQUELEGENDARY : 3 : 1 : Heroes of Skyrim
+Jiub : UNIQUELEGENDARY : 3 : 1 : Houses of Morrowind
+Journey to Sovngarde : UNIQUELEGENDARY : 3 : 1 : Heroes of Skyrim
+Laaneth : UNIQUELEGENDARY : 0 : 1 : Return to Clockwork City
+Legate Rikke : UNIQUELEGENDARY : 3 : 1 : Heroes of Skyrim
+Lich's Ascension : LEGENDARY : 1 : 3 : Houses of Morrowind
+Lucien Lachance : UNIQUELEGENDARY : 5 : 1 : Core
+Lydia : UNIQUELEGENDARY : 5 : 1 : Heroes of Skyrim
+Mecinar : UNIQUELEGENDARY : 0 : 1 : Return to Clockwork City
+Mentor's Ring : LEGENDARY : 2 : 3 : Core
+Merric-at-Aswala : UNIQUELEGENDARY : 5 : 1 : Core
+Mighty Conjuring : LEGENDARY : 5 : 3 : Houses of Morrowind
+Miraak, Dragonborn : UNIQUELEGENDARY : 5 : 1 : Core
+Morag Tong Aspirant : LEGENDARY : 5 : 3 : Houses of Morrowind
+Morokei, the Deathless : UNIQUELEGENDARY : 0 : 1 : Forgotten Hero
+Mundus Stone : UNIQUELEGENDARY : 2 : 1 : Core
+Nahagliiv : UNIQUELEGENDARY : 5 : 1 : Core
+Nahkriin, Dragon Priest : UNIQUELEGENDARY : 3 : 1 : Core
+Naryu Virian : UNIQUELEGENDARY : 5 : 1 : Houses of Morrowind
+Necrom Mastermind : LEGENDARY : 4 : 3 : Core
+Nest of Vipers : LEGENDARY : 1 : 3 : Core
+Night Talon Lord : LEGENDARY : 3 : 3 : Core
+Odahviing : UNIQUELEGENDARY : 4 : 1 : Core
+Odirniran Necromancer : LEGENDARY : 5 : 3 : Houses of Morrowind
+Orb of Vaermina : UNIQUELEGENDARY : 2 : 1 : Core
+Paarthurnax : UNIQUELEGENDARY : 0 : 1 : Heroes of Skyrim
+Queen Barenziah : UNIQUELEGENDARY : 5 : 1 : Core
+Quin'rawl Burglar : LEGENDARY : 3 : 3 : Core
+Red Bramman : UNIQUELEGENDARY : 5 : 1 : Core
+Reive, Blademaster : UNIQUELEGENDARY : 5 : 1 : Core
+Relentless Raider : LEGENDARY : 4 : 3 : Core
+Renowned Legate : LEGENDARY : 2 : 3 : Core
+Ring of Namira : UNIQUELEGENDARY : 1 : 1 : Heroes of Skyrim
+Sails-Through-Storms : UNIQUELEGENDARY : 0 : 1 : Return to Clockwork City
+Seht's Masterwork : UNIQUELEGENDARY : 0 : 1 : Forgotten Hero
+Serpentine Stalker : LEGENDARY : 4 : 3 : Heroes of Skyrim
+Shadowmere : UNIQUELEGENDARY : 0 : 1 : The Fall of the Dark Brotherhood
+Sharp-Eyed-Ashkhan : LEGENDARY : 3 : 3 : Houses of Morrowind
+Siege of Stros M'kai : UNIQUELEGENDARY : 0 : 1 : Forgotten Hero
+Skar Drillmaster : LEGENDARY : 5 : 3 : Houses of Morrowind
+Skeletal Dragon : LEGENDARY : 4 : 3 : Heroes of Skyrim
+Skyforge : UNIQUELEGENDARY : 2 : 1 : Heroes of Skyrim
+Sotha Sil : UNIQUELEGENDARY : 5 : 1 : Houses of Morrowind
+Speaker Terenus : UNIQUELEGENDARY : 0 : 1 : The Fall of the Dark Brotherhood
+Spider Daedra : LEGENDARY : 1 : 3 : Core
+Staff of Sparks : LEGENDARY : 1 : 3 : Core
+Stendarr's Hammer : UNIQUELEGENDARY : 2 : 1 : Houses of Morrowind
+Sun-in-Shadow : UNIQUELEGENDARY : 0 : 1 : Houses of Morrowind
+Supreme Atromancer : LEGENDARY : 5 : 3 : Core
+Swims-at-Night : UNIQUELEGENDARY : 3 : 1 : Heroes of Skyrim
+Tazkad the Packmaster : UNIQUELEGENDARY : 5 : 1 : Core
+The Black Dragon : UNIQUELEGENDARY : 0 : 1 : The Fall of the Dark Brotherhood
+The Mechanical Heart : UNIQUELEGENDARY : 0 : 1 : Return to Clockwork City
+The Night Mother : UNIQUELEGENDARY : 0 : 1 : The Fall of the Dark Brotherhood
+The Red Year : UNIQUELEGENDARY : 4 : 1 : Houses of Morrowind
+Therana : UNIQUELEGENDARY : 5 : 1 : Houses of Morrowind
+Thieves' Den : LEGENDARY : 3 : 3 : Core
+Thieves Guild Fence : LEGENDARY : 4 : 3 : Heroes of Skyrim
+Tyr : UNIQUELEGENDARY : 5 : 1 : Core
+Ulfric Stormcloak : UNIQUELEGENDARY : 4 : 1 : Heroes of Skyrim
+Umbra : UNIQUELEGENDARY : 1 : 1 : Houses of Morrowind
+Undying Dragon : LEGENDARY : 5 : 3 : Heroes of Skyrim
+Ungolim the Listener : UNIQUELEGENDARY : 5 : 1 : Core
+Unite the Houses : LEGENDARY : 2 : 3 : Houses of Morrowind
+Vigilant Giant : LEGENDARY : 5 : 3 : Core
+Vivec : UNIQUELEGENDARY : 4 : 1 : Houses of Morrowind
+Volendrung : UNIQUELEGENDARY : 1 : 1 : Core
+Wabbajack : UNIQUELEGENDARY : 2 : 1 : Core
+Wildfire Dragon : LEGENDARY : 3 : 3 : Heroes of Skyrim
+Wood Orc Headhunter : LEGENDARY : 4 : 3 : Core
+World-Eater's Eyrie : LEGENDARY : 1 : 3 : Heroes of Skyrim
+Yagrum Bagarn : UNIQUELEGENDARY : 4 : 1 : Houses of Morrowind
