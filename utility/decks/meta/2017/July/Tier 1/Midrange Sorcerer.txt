@@ -1,0 +1,20 @@
+Crown Quartermaster : 3
+Firebolt : 3
+Shrieking Harpy : 3
+Sorcerer's Negation : 2
+Wardcrafter : 3
+Wind Keep Spellsword : 3
+Cunning Ally : 3
+Daggerfall Mage : 3
+Haunting Spirit : 2
+Young Mammoth : 3
+Lightning Bolt : 3
+Mystic Dragon : 3
+Royal Sage : 2
+Shadowfen Priest : 2
+Thief of Dreams : 3
+High King Emeric : 1
+Wrath of Sithis : 2
+Bringer of Nightmares : 2
+Ancano : 1
+Supreme Atromancer : 3

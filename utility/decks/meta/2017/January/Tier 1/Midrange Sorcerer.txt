@@ -1,0 +1,19 @@
+Firebolt : 3
+Iliac Sorcerer : 3
+Shrieking Harpy : 3
+Wardcrafter : 3
+Wind Keep Spellsword : 3
+Crushing Blow : 3
+Daggerfall Mage : 3
+Haunting Spirit : 3
+Slaughterfish Spawning : 3
+Young Mammoth : 3
+Lightning Bolt : 3
+Lucien Lachance : 1
+Preserver of the Root : 3
+Royal Sage : 3
+Black Worm Necromancer : 3
+Shadowfen Priest : 3
+High King Emeric : 1
+Nahagliiv : 1
+Supreme Atromancer : 2

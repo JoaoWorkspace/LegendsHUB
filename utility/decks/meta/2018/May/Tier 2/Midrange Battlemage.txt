@@ -1,0 +1,22 @@
+Crown Quartermaster : 3
+Firebolt : 3
+Rapid Shot : 3
+Shrieking Harpy : 3
+Stormcloak Vanguard : 2
+Wardcrafter : 3
+Daggerfall Mage : 3
+Hlaalu Sharpshooter : 1
+Skaven Pyromancer : 2
+Vigilant Ancestor : 2
+Ash Berserker : 3
+Breton Conjurer : 2
+Earthbone Spinner : 2
+Lightning Bolt : 3
+Sentinel Battlemace : 2
+Blood Dragon : 2
+Cradlecrush Giant : 2
+Tel Vos Magister : 3
+Belligerent Giant : 3
+Merric-at-Aswala : 1
+Ancano : 1
+Aspect of Hircine : 1

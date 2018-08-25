@@ -1,0 +1,19 @@
+Curse : 3
+Firebolt : 3
+Shadow Shift : 3
+Goblin Skulk : 3
+Mournhold Traitor : 3
+Shrieking Harpy : 3
+Thieves Guild Recruit : 3
+Wardcrafter : 3
+Astrid : 1
+Brotherhood Slayer : 3
+Daggerfall Mage : 3
+Deshaan Avenger : 2
+Ligthning Bolt : 3
+Murkwater Shaman : 3
+Queen Barenziah : 1
+Cliff Racer : 3
+Leaflurker : 3
+Tazkad the Packmaster : 1
+Supreme Atromancer : 3

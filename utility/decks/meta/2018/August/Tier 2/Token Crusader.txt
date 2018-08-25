@@ -1,0 +1,19 @@
+Nord Firebrand : 3
+Marked Man : 3
+Scouting Patrol : 3
+Steel Scimitar : 3
+Circle Initiate : 3
+Fifth Legion Trainer : 3
+Orc Clan Captain : 3
+Stormcloak Vanguard : 3
+Cast Out : 1
+Crusader's Assault : 3
+Eastmarch Crusader : 3
+Morkul Gatekeeper : 3
+Penitus Oculatus Agent : 1
+Pit Lion : 3
+Ash Berserker : 3
+Candlehearth Brawler : 3
+Cloudrest Illusionist : 3
+Dawnbreaker : 1
+Underworld Vigilante : 2

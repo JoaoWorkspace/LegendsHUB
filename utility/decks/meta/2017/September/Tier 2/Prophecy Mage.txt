@@ -1,0 +1,22 @@
+Cleric of Kyne : 3
+Lurking Crocodile : 2
+Shrieking Harpy : 3
+Wardcrafter : 3
+Daggerfall Mage : 3
+Dawnstar Healer : 3
+Eastmarch Healer : 3
+Grisly Gourmet : 3
+Thieves Guild Shadowfoot : 3
+Cloudrest Illusionist : 3
+Hive Defender : 3
+Lightning Bolt : 3
+Mystic Dragon : 3
+Royal Sage : 3
+The Black Dragon : 1
+Ayrenn : 1
+Haafinger Marauder : 2
+Loyal Housecarl : 1
+Phalanx Exemplar : 1
+Piercing Javelin : 3
+Fate Weaver : 3
+Ancano : 1

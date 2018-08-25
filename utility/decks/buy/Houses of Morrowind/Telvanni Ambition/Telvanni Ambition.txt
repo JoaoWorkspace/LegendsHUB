@@ -1,0 +1,41 @@
+Sun-in-Shadow : 1
+House Kinsman : 1
+Murkwater Shaman : 1
+Fleeting Apparition : 1
+Ice Storm : 1
+Divayth's Experiments : 1
+Mushroom Tower : 1
+Cruel Firebloom : 2
+Vvardvark Experiment : 2
+Moon Sugar Smuggler : 1
+Barilzar's Tinkering : 1
+Caius' Machinations : 2
+Blacksap Protector : 2
+Blood Sacrament : 2
+Indoril Mastermind : 2
+Mummify : 2
+Telvanni Catspaw : 2
+Archein Elite : 1
+Archein Venomtongue : 1
+Elusive Schemer : 2
+Fire Storm : 2
+Deathless Draugr : 1
+Firebolt : 2
+Abecean Navigator : 2
+Crystal Tower Crafter : 2
+Mages Guild Recruit : 3
+Seyda Neen Courier : 3
+Soul Split : 3
+Wind Keep Spellsword : 2
+Ancestral Dead : 3
+Burning Touch : 1
+Tree Minder : 2
+Wild Clumsiness : 2
+Bonewalker : 2
+Drain Blood : 3
+Lightning Bolt : 2
+Rising of Bones : 3
+Telvanni Oathman : 3
+Spirit Knife : 2
+Swamp Leviathan : 2
+Therana's Lawman : 1

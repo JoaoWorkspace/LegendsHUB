@@ -1,0 +1,27 @@
+Steel Scimitar : 3
+Ald Velothi Assassin : 3
+Ambitious Hireling : 3
+Barrow Stalker : 3
+Fifth Legion Trainer : 3
+Orc Clan Captain : 3
+Redoran Forerunner : 3
+Rift Thane : 3
+Wind Keep Spellsword : 3
+Bolvyn Venim : 1
+Crusader's Assault : 3
+Eastmarch Crusader : 3
+Haunting Spirit : 3
+Khuul Lawkeeper : 3
+Morkul Gatekeeper : 3
+Withered Hand Cultist : 3
+Young Mammoth : 3
+Ash Berserker : 3
+Bleakcoast Troll : 3
+Cloudrest Illusionist : 3
+Dawnbreaker : 1
+Hive Defender : 3
+Redoran Oathman : 3
+The Black Dragon : 1
+Ulfric's Housecarl : 3
+Divine Fervor : 3
+Sower of Revenge : 3

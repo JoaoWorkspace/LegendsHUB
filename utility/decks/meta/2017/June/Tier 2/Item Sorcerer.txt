@@ -1,0 +1,18 @@
+Firebolt : 3
+Dragontail Savior : 1
+Enchanted Plate : 3
+Shrieking Harpy : 3
+Skilled Blacksmith : 3
+Wardcrafter : 3
+Wind Keep Spellsword : 3
+Cunning Ally : 3
+Daggerfall Mage : 3
+Dark Guardian : 3
+Gardener of Swords : 3
+Mace of Encumbrance : 3
+Lightning Bolt : 3
+Tome of Alteration : 3
+Shadowfen Priest : 3
+High King Emeric : 1
+Master of Arms : 3
+Supreme Atromancer : 3

@@ -1,0 +1,20 @@
+Rapid Shot : 3
+Steel Scimitar : 2
+Dragontail Savior : 3
+Orc Clan Captain : 3
+Orc Clan Shaman : 3
+Wind Keep Spellsword : 3
+Battlerage Orc : 3
+Mighty Ally : 3
+Morkul Gatekeeper : 3
+Stoneshard Orc : 3
+Bangkorai Butcher : 3
+Earthbone Spinner : 3
+Garnag, Dark Adherent : 1
+Reive, Blademaster : 1
+Militant Chieftain : 2
+Sower of Revenge : 3
+Wood Orc Headhunter : 3
+Gortwog gro-Nagorm : 1
+Triumphant Jarl : 2
+Belligerent Giant : 2

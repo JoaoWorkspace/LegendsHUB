@@ -1,0 +1,39 @@
+Dagoth Ur : 1
+Vigilant Ancestor : 1
+False Incarnate : 1
+Imposter's Mission : 1
+Blighted Werebat : 1
+Elder Centaur : 1
+Hand of Dagoth : 1
+Corprus Disease : 2
+Awakened Dreamer : 2
+High Rock Summoner : 2
+Wardcrafter : 1
+Assassin's Bow : 1
+Ash Berserker : 2
+Ash Servant : 2
+Bog Lurcher : 1
+Fighters Guild Steward : 2
+Hatchery Meddler : 2
+Skirmisher's Elixir : 1
+Ash Piercer : 2
+Glenumbra Sorceress : 2
+Ascended Sleeper : 2
+Shadow Shift : 2
+Sixth House Amulet : 3
+Deranged Corprus : 3
+Finish Off : 2
+Thieves Guild Recruit : 1
+Burning Touch : 3
+Camlorn Sentinel : 2
+Dagoth Oathman : 3
+Giant Bat : 1
+An-Xileel Invader : 3
+Lightning Bolt : 3
+Nix-Hound : 3
+Fortress Watchman : 3
+Servant of Dagoth : 3
+Chaurus Reaper : 1
+Nix-Ox : 3
+Savage Ogre : 2
+Therana's Lawman : 3

@@ -17,7 +17,7 @@ public class RescaledImageIcon {
 	public RescaledImageIcon(String pathToImageIcon, int width, int height) {
 		RESCALEDICON = new ImageIcon(pathToImageIcon); // load the image to a imageIcon
 		Image image = RESCALEDICON.getImage(); // transform it 
-		Image newimg = image.getScaledInstance(width, height, Image.SCALE_SMOOTH); // scale it the smooth way  
+		Image newimg = image.getScaledInstance(width, height, Image.SCALE_SMOOTH); // scale it the smooth way 
 		RESCALEDICON = new ImageIcon(newimg);  // transform it back
 	}
 

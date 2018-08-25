@@ -1,0 +1,29 @@
+Cruel Firebloom : 3
+Scout's Report : 3
+Ungolim the Listener : 1
+Barrow Stalker : 3
+Fighters Guild Recruit : 3
+Goblin Skulk : 3
+Shrieking Harpy : 3
+Sly Marshblade : 3
+Sorcerer's Negation : 3
+Thieves Guild Recruit : 3
+Wardcrafter : 3
+Black Hand Messenger : 3
+Daggerfall Mage : 3
+Dark Guardian : 1
+Indoril Mastermind : 3
+Mummify : 3
+Reverberating Strike : 3
+Sanctuary Pet : 3
+Elusive Schemer : 3
+Lightning Bolt : 3
+Queen Barenziah : 1
+Shadowfen Priest : 3
+Sun-in-Shadow : 1
+Ice Storm : 3
+Odirniran Necromancer : 3
+Tel Vos Magister : 3
+Journey to Sovngarde : 1
+Laaneth : 1
+Tullius' Conscription : 3

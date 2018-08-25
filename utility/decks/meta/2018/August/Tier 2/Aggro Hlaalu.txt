@@ -1,0 +1,37 @@
+Nord Firebrand : 3
+Marked Man : 2
+Morag Tong Aspirant : 1
+Shadow Shift : 1
+Steel Scimitar : 3
+Ambitious Hireling : 1
+Balmora Puppeteer : 1
+Bruma Profiteer : 3
+Cleric of Kyne : 2
+Fifth Legion Trainer : 3
+Goblin Skulk : 3
+Mournhold Traitor : 3
+Orc Clan Captain : 3
+Rift Thane : 3
+Stormcloak Vanguard : 2
+Suran Pawnbroker : 2
+Cornerclub Gambler : 2
+Crusader's Assault : 2
+Eastmarch Crusader : 3
+Grisly Gourmet : 2
+Hlaalu Sharpshooter : 1
+Pit Lion : 1
+Raiding Party : 3
+Withered Hand Cultist : 3
+Ash Berserker : 2
+Candlehearth Brawler : 3
+Cloudrest Illusionist : 3
+Dawnbreaker : 1
+Earthbone Spinner : 1
+Garnag, Dark Adherent : 1
+Hive Defender : 1
+Reive, Blademaster : 1
+The Black Dragon : 1
+Ahnassi : 1
+Cliff Racer : 3
+Divine Fervor : 2
+Triumphant Jarl : 2

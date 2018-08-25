@@ -1,0 +1,20 @@
+Crown Quartermaster : 3
+Scroll Seeker : 3
+Shrieking Harpy : 3
+Sorcerer's Negation : 3
+Wardcrafter : 3
+Wind Keep Spellsword : 3
+Daggerfall Mage : 3
+Dark Guardian : 3
+Galyn the Shelterer : 1
+Haunting Spirit : 3
+Young Mammoth : 3
+Lightning Bolt : 3
+Mystic Dragon : 3
+Shadowfen Priest : 2
+Stronghold Eradicator : 3
+High King Emeric : 1
+Night Shadow : 2
+Bone Colossus : 3
+Nahagliiv : 1
+Ancano : 1

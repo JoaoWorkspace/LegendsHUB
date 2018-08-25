@@ -1,0 +1,20 @@
+Firebolt : 3
+Rapid Shot : 3
+Shrieking Harpy : 3
+Wardcrafter : 3
+Daggerfall Mage : 3
+Morkul Gatekeeper : 3
+Raiding Party : 3
+Skaven Pyromancer : 3
+Breton Conjurer : 3
+Dushnikh Yal Archer : 3
+Earthbone Spinner : 2
+Lightning Bolt : 3
+Sentinel Battlemace : 2
+Clockwork Dragon : 3
+Markarth Bannerman : 3
+Ice Storm : 3
+Merric-at-Aswala : 1
+Ancano : 1
+Laaneth : 1
+Supreme Atromancer : 1

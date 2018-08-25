@@ -1,0 +1,18 @@
+Murkwater Goblin : 3
+Gloomlurker : 3
+Goblin Skulk : 3
+Mournhold Traitor : 3
+Murkwater Witch : 3
+Reflective Automaton : 3
+Brotherhood Slayer : 3
+Murkwater Butcher : 3
+Murkwater Guide : 3
+Murkwater Savage : 3
+Nimble Ally : 3
+Lightning Bolt : 3
+Murkwater Shaman : 3
+Murkwater Skirmisher : 3
+Sightless Skulk : 3
+Cliff Racer : 3
+Ancano : 1
+Tazkad the Packmaster : 1

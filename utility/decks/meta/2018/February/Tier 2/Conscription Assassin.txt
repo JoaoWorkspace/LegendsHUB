@@ -1,0 +1,24 @@
+Cruel Firebloom : 3
+Drain Vitality : 3
+Firebolt : 3
+Ungolim the Listener : 1
+Word Wall : 2
+Balmora Spymaster : 2
+Evermore Steward : 1
+Fighters Guild Recruit : 2
+Goblin Skulk : 2
+Murkwater Witch : 1
+Shrieking Harpy : 2
+Thieves Guild Recruit : 3
+Wardcrafter : 2
+Black Hand Messenger : 2
+Daggerfall Mage : 3
+Elusive Schemer : 3
+Greybeard Mentor : 1
+Lightning Bolt : 3
+Queen Barenziah : 1
+Shearpoint Dragon : 2
+Journey to Sovngarde : 1
+Eclipse Baroness : 3
+Laaneth : 1
+Tullius' Conscription : 3

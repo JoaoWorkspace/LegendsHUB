@@ -1,0 +1,40 @@
+Astrid : 1
+Cicero the Betrayer : 1
+Garnag, Dark Adherent : 1
+Shadowmere : 1
+Speaker Terenus : 1
+The Black Dragon : 1
+The Night Mother : 1
+Blood Sorceress : 3
+Eclipse Baroness : 3
+Flesh Sculpture : 3
+Gravesinger : 3
+Unstoppable Rage : 3
+Blood Pact Messenger : 3
+Brotherhood Sanctuary : 3
+Chanter of Akatosh : 3
+Corsair Ship : 3
+Falkreath Defiler : 3
+Grand Ball : 3
+Little Girl : 3
+Penitus Oculatus Agent : 3
+Skeever Infestation : 3
+Spear of Embers : 3
+Underworld Vigilante : 3
+Wrath of Sithis : 3
+Brotherhood Slayer : 3
+Daggers in the Dark : 3
+Dark Guardian : 3
+Fell the Mighty : 3
+Gristlehide Dreugh : 3
+Knife to the Throat : 3
+Knight of the Hour : 3
+Marked Man : 3
+Palace Conspirator : 3
+Protector of the Innocent : 3
+Quicksilver Crossbow : 3
+Sanctuary Pet : 3
+Sanctuary Raid : 3
+Skooma Underboss : 3
+Stalking Shadowscale : 3
+Stealer of Secrets : 3

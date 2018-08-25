@@ -4,9 +4,10 @@ import java.awt.Color;
 
 import javax.swing.JProgressBar;
 
-import main.CraftRoulette;
+import hub.Hub;
 import objects.Card;
 import objects.CardType;
+import resources.ColorSet;
 
 public class CardProgressBar extends JProgressBar{
 	private static final int TotalCardsSoulGemCost = getTotalCardsCost();
@@ -18,13 +19,13 @@ public class CardProgressBar extends JProgressBar{
 	public CardProgressBar() {
 		super(0,0,TotalCardsSoulGemCost);
 		setBackground(Color.WHITE);
-		setForeground(new Color(89, 74, 140));
+		setForeground(ColorSet.CraftRouletteTheme);
 		setStringPainted(true);
 	}
 
 	private static int getTotalCardsCost(){
 		int totalGemCost = 0;
-		for(Card card : CraftRoulette.getCardlist()) {
+		for(Card card : Hub.getCardlist().values()) {
 			switch(card.getType()) {
 			case UNIQUELEGENDARY: 
 				totalGemCost += 1200;
@@ -37,8 +38,10 @@ public class CardProgressBar extends JProgressBar{
 				break;
 			case RARE:
 				totalGemCost += 300;
+				break;
 			case COMMON:
 				totalGemCost += 150;
+				break;
 			}
 		}
 		return totalGemCost;
@@ -46,7 +49,7 @@ public class CardProgressBar extends JProgressBar{
 
 	private static int getTotalLegendariesCost() {
 		int totalGemCost = 0;
-		for(Card card : CraftRoulette.getCardlist()) {
+		for(Card card : Hub.getCardlist().values()) {
 			switch(card.getType()) {
 			case UNIQUELEGENDARY: 
 				totalGemCost += 1200;
@@ -61,7 +64,7 @@ public class CardProgressBar extends JProgressBar{
 
 	private static int getTotalEpicsCost() {
 		int totalGemCost = 0;
-		for(Card card : CraftRoulette.getCardlist()) {
+		for(Card card : Hub.getCardlist().values()) {
 			switch(card.getType()) {
 			case EPIC: 
 				totalGemCost += 1200;
@@ -73,7 +76,7 @@ public class CardProgressBar extends JProgressBar{
 
 	private static int getTotalRaresCost() {
 		int totalGemCost = 0;
-		for(Card card : CraftRoulette.getCardlist()) {
+		for(Card card : Hub.getCardlist().values()) {
 			switch(card.getType()) {
 			case RARE: 
 				totalGemCost += 300;
@@ -85,7 +88,7 @@ public class CardProgressBar extends JProgressBar{
 
 	private static int getTotalCommonsCost() {
 		int totalGemCost = 0;
-		for(Card card : CraftRoulette.getCardlist()) {
+		for(Card card : Hub.getCardlist().values()) {
 			switch(card.getType()) {
 			case COMMON: 
 				totalGemCost += 150;
@@ -97,22 +100,23 @@ public class CardProgressBar extends JProgressBar{
 
 	public void becomeLegendary() {
 		setMaximum(TotalLegendariesSoulGemCost);
-		setForeground(new Color(242, 163, 26));
+		setForeground(ColorSet.ProgressPanelLEGENDARY);
 	}
 	
 	public void becomeEpic() {
 		setMaximum(TotalEpicsSoulGemCost);
-		setForeground(new Color(89, 74, 140));
+		setForeground(ColorSet.ProgressPanelEPIC);
 	}
 	
 	public void becomeRare() {
 		setMaximum(TotalRaresSoulGemCost);
-		setForeground(new Color(73, 207, 237));
+		setForeground(ColorSet.ProgressPanelRARE);
+		
 	}
 	
 	public void becomeCommon() {
 		setMaximum(TotalCommonsSoulGemCost);
-		setForeground(new Color(73, 207, 237));
+		setForeground(ColorSet.ProgressPanelCOMMON);
 	}
 	
 }

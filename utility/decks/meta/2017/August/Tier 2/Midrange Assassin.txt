@@ -1,0 +1,19 @@
+Curse : 3
+Goblin Skulk : 3
+Mournhold Traitor : 3
+Shrieking Harpy : 3
+Wardcrafter : 3
+Blacksap Protector : 3
+Brotherhood Slayer : 3
+Daggerfall Mage : 3
+Lightning Bolt : 3
+Murkwater Shaman : 3
+Mystic Dragon : 3
+Queen Barenziah : 1
+Cliff Racer : 3
+Leaflurker : 3
+Thief of Dreams : 2
+Shearpoint Dragon : 3
+Ancano : 1
+Tazkad the Packmaster : 1
+Supreme Atromancer : 3

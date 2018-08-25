@@ -1,0 +1,24 @@
+Ancano : 1
+Cloudrest Illusionist : 1
+Ice Storm : 1
+Praetorian Commander : 1
+Mages Guild Retreat : 1
+A Night to Remember : 2
+Bruma Profiteer : 2
+High Rock Summoner : 1
+Shrieking Harpy : 2
+Wardcrafter : 2
+Grisly Gourmet : 2
+Mage's Trick : 2
+Insightful Scholar : 2
+Calm : 2
+Execute : 2
+Firebolt : 3
+Crystal Tower Crafter : 2
+Cunning Ally : 3
+Dark Rebirth : 3
+Lightning Bolt : 3
+Mystic Dragon : 3
+Piercing Javelin : 3
+Winterhold Illusionist : 3
+Conjuration Scholar : 3

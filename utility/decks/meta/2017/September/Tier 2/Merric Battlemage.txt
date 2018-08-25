@@ -1,0 +1,20 @@
+Lesser Ward : 2
+Firebolt : 3
+Rapid Shot : 3
+Shimmerene Peddler : 2
+Shrieking Harpy : 3
+Wardcrafter : 3
+Cunning Ally : 3
+Daggerfall Mage : 3
+Raiding Party : 2
+Skaven Pyromancer : 2
+Breton Conjurer : 3
+Earthbone Spinner : 2
+Lightning Bolt : 3
+Mystic Dragon : 3
+Sentinel Battlemace : 2
+Markarth Bannerman : 3
+Ice Storm : 3
+Merric-at-Aswala : 1
+Ancano : 1
+Supreme Atromancer : 3

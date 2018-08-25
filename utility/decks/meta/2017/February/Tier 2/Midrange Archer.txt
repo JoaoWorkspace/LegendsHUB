@@ -1,0 +1,18 @@
+Rapid Shot : 3
+Sharpshooter Scout : 2
+Ungolim the Listener : 1
+Daring Cutpurse : 3
+Fighters Guild Recruit : 3
+Finish Off : 3
+Graystone Ravager : 3
+Murkwater Witch : 3
+Snake Tooth Necklace : 3
+Skaven Pyromancer : 3
+Earthbone Spinner : 3
+Lumbering Ogrim : 3
+Slaughterfish Spawning : 3
+Blood Dragon : 2
+Cliff Racer : 3
+Pahmar-raht Renegade : 3
+Triumphant Jarl : 3
+Vigilant Giant : 3

@@ -66,5 +66,16 @@ public enum CardType {
 		}
 		return icon;
 	}
-
+	
+	@Override
+	public String toString() {
+		switch(this) {
+		case UNIQUELEGENDARY: 
+		case LEGENDARY: return "LEGENDARY";
+		case EPIC: return "EPIC";
+		case RARE: return "RARE";
+		case COMMON: return "COMMON";
+		}
+		return "";
+	}
 }

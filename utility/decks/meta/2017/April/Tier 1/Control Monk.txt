@@ -1,0 +1,22 @@
+Execute : 3
+Ungolim the Listener : 1
+Bruma Profiteer : 3
+Fighters Guild Recruit : 3
+Thieves Guild Recruit : 3
+Astrid : 1
+Brotherhood Slayer : 3
+Sanctuary Pet : 3
+Cloudrest Illusionist : 3
+Dawnbreaker : 1
+Hive Defender : 3
+The Black Dragon : 1
+Ahnassi : 1
+Piercing Javelin : 3
+Stronghold Eradicator : 3
+Wild Beastcaller : 3
+Dawn's Wrath : 3
+Eclipse Baroness : 3
+Tazkad the Packmaster : 1
+Mantikora : 3
+Miraak, Dragonborn : 1
+Odahviing : 1

@@ -1,0 +1,823 @@
+A Land Divided : LEGENDARY : Heroes of Skyrim
+Adoring Fan : UNIQUELEGENDARY : Core
+Aela the Huntress : UNIQUELEGENDARY : Heroes of Skyrim
+Ahnassi : UNIQUELEGENDARY : Core
+Aldora the Daring : UNIQUELEGENDARY : Return to Clockwork City
+Alduin : UNIQUELEGENDARY : Heroes of Skyrim
+Allena Benoch : UNIQUELEGENDARY : Core
+Almalexia : UNIQUELEGENDARY : Houses of Morrowind
+Altar of Despair : LEGENDARY : Madhouse
+Ancano : UNIQUELEGENDARY : Heroes of Skyrim
+Archcanon Saryoni : UNIQUELEGENDARY : Houses of Morrowind
+Aspect of Hircine : LEGENDARY : Houses of Morrowind
+Assembled Titan : UNIQUELEGENDARY : Return to Clockwork City
+Astrid : UNIQUELEGENDARY : The Fall of the Dark Brotherhood
+Aundae Clan Sorcerer : LEGENDARY : Houses of Morrowind
+Auroran Sentry : LEGENDARY : Core
+Ayrenn : UNIQUELEGENDARY : Core
+Balmora Captain : LEGENDARY : Houses of Morrowind
+Barbas : UNIQUELEGENDARY : Heroes of Skyrim
+Berne Clan Nightstalker : LEGENDARY : Houses of Morrowind
+Black Marsh Warden : LEGENDARY : Core
+Blood Dragon : LEGENDARY : Core
+Blood Magic Lord : LEGENDARY : Core
+Bolvyn Venim : UNIQUELEGENDARY : Houses of Morrowind
+Bone Colossus : LEGENDARY : Core
+Bringer of Nightmares : LEGENDARY : Heroes of Skyrim
+Brynjolf : UNIQUELEGENDARY : Heroes of Skyrim
+Caius Cosades : UNIQUELEGENDARY : Houses of Morrowind
+Chodala's Treachery : LEGENDARY : Houses of Morrowind
+Cicero the Betrayer : UNIQUELEGENDARY : The Fall of the Dark Brotherhood
+Cliff Racer Onslaught : LEGENDARY : Houses of Morrowind
+College of Winterhold : UNIQUELEGENDARY : Heroes of Skyrim
+Daggerfall Mage : LEGENDARY : Core
+Dagoth Ur : UNIQUELEGENDARY : Houses of Morrowind
+Dawn's Wrath : LEGENDARY : Core
+Dawnbreaker : UNIQUELEGENDARY : Core
+Descendant of Alkosh : LEGENDARY : Core
+Divayth Fyr : UNIQUELEGENDARY : Core
+Doomcrag Vampire : LEGENDARY : Core
+Dragon Mound : UNIQUELEGENDARY : Heroes of Skyrim
+Dremora Markynaz : LEGENDARY : Core
+Duke Vedam Dren : UNIQUELEGENDARY : Houses of Morrowind
+Ebonheart Oracle : LEGENDARY : Houses of Morrowind
+Echo of Akatosh : LEGENDARY : Heroes of Skyrim
+Emperor Titus Mede II : UNIQUELEGENDARY : Heroes of Skyrim
+Enamor's Keeper : LEGENDARY : Houses of Morrowind
+Frost Giant : LEGENDARY : Heroes of Skyrim
+Galyn the Shelterer : UNIQUELEGENDARY : Return to Clockwork City
+Garnag, Dark Adherent : UNIQUELEGENDARY : The Fall of the Dark Brotherhood
+General Tullius : UNIQUELEGENDARY : Core
+Genius Pathmage : LEGENDARY : Houses of Morrowind
+Gentleman Jim Stacey : UNIQUELEGENDARY : Houses of Morrowind
+Goldbrand : UNIQUELEGENDARY : Core
+Gortwog gro-Nagorm : UNIQUELEGENDARY : Core
+Haafingar Marauder : LEGENDARY : Core
+High Hrothgar : UNIQUELEGENDARY : Heroes of Skyrim
+High King Emeric : UNIQUELEGENDARY : Core
+Indoril Archmage : LEGENDARY : Core
+Innkeeper Delphine : UNIQUELEGENDARY : Heroes of Skyrim
+Iron Atronach : LEGENDARY : Core
+J'zargo : UNIQUELEGENDARY : Heroes of Skyrim
+Jarl Balgruuf : UNIQUELEGENDARY : Heroes of Skyrim
+Jiub : UNIQUELEGENDARY : Houses of Morrowind
+Journey to Sovngarde : UNIQUELEGENDARY : Heroes of Skyrim
+Laaneth : UNIQUELEGENDARY : Return to Clockwork City
+Legate Rikke : UNIQUELEGENDARY : Heroes of Skyrim
+Lich's Ascension : LEGENDARY : Houses of Morrowind
+Lucien Lachance : UNIQUELEGENDARY : Core
+Lydia : UNIQUELEGENDARY : Heroes of Skyrim
+Mecinar : UNIQUELEGENDARY : Return to Clockwork City
+Mentor's Ring : LEGENDARY : Core
+Merric-at-Aswala : UNIQUELEGENDARY : Core
+Mighty Conjuring : LEGENDARY : Houses of Morrowind
+Miraak, Dragonborn : UNIQUELEGENDARY : Core
+Morag Tong Aspirant : LEGENDARY : Houses of Morrowind
+Morokei, the Deathless : UNIQUELEGENDARY : Forgotten Hero
+Mundus Stone : UNIQUELEGENDARY : Core
+Nahagliiv : UNIQUELEGENDARY : Core
+Nahkriin, Dragon Priest : UNIQUELEGENDARY : Core
+Naryu Virian : UNIQUELEGENDARY : Houses of Morrowind
+Necrom Mastermind : LEGENDARY : Core
+Nest of Vipers : LEGENDARY : Core
+Night Talon Lord : LEGENDARY : Core
+Odahviing : UNIQUELEGENDARY : Core
+Odirniran Necromancer : LEGENDARY : Houses of Morrowind
+Orb of Vaermina : UNIQUELEGENDARY : Core
+Paarthurnax : UNIQUELEGENDARY : Heroes of Skyrim
+Queen Barenziah : UNIQUELEGENDARY : Core
+Quin'rawl Burglar : LEGENDARY : Core
+Red Bramman : UNIQUELEGENDARY : Core
+Reive, Blademaster : UNIQUELEGENDARY : Core
+Relentless Raider : LEGENDARY : Core
+Renowned Legate : LEGENDARY : Core
+Ring of Namira : UNIQUELEGENDARY : Heroes of Skyrim
+Sails-Through-Storms : UNIQUELEGENDARY : Return to Clockwork City
+Seht's Masterwork : UNIQUELEGENDARY : Forgotten Hero
+Serpentine Stalker : LEGENDARY : Heroes of Skyrim
+Shadowmere : UNIQUELEGENDARY : The Fall of the Dark Brotherhood
+Sharp-Eyed Ashkhan : LEGENDARY : Houses of Morrowind
+Siege of Stros M'Kai : UNIQUELEGENDARY : Forgotten Hero
+Skar Drillmaster : LEGENDARY : Houses of Morrowind
+Skeletal Dragon : LEGENDARY : Heroes of Skyrim
+Skyforge : UNIQUELEGENDARY : Heroes of Skyrim
+Sotha Sil : UNIQUELEGENDARY : Houses of Morrowind
+Speaker Terenus : UNIQUELEGENDARY : The Fall of the Dark Brotherhood
+Spider Daedra : LEGENDARY : Core
+Staff of Sparks : LEGENDARY : Core
+Stendarr's Hammer : UNIQUELEGENDARY : Houses of Morrowind
+Sun-in-Shadow : UNIQUELEGENDARY : Houses of Morrowind
+Supreme Atromancer : LEGENDARY : Core
+Swims-at-Night : UNIQUELEGENDARY : Heroes of Skyrim
+Tazkad the Packmaster : UNIQUELEGENDARY : Core
+The Black Dragon : UNIQUELEGENDARY : The Fall of the Dark Brotherhood
+The Mechanical Heart : UNIQUELEGENDARY : Return to Clockwork City
+The Night Mother : UNIQUELEGENDARY : The Fall of the Dark Brotherhood
+The Red Year : UNIQUELEGENDARY : Houses of Morrowind
+Therana : UNIQUELEGENDARY : Houses of Morrowind
+Thieves' Den : LEGENDARY : Core
+Thieves Guild Fence : LEGENDARY : Heroes of Skyrim
+Tyr : UNIQUELEGENDARY : Core
+Ulfric Stormcloak : UNIQUELEGENDARY : Heroes of Skyrim
+Umbra : UNIQUELEGENDARY : Houses of Morrowind
+Undying Dragon : LEGENDARY : Heroes of Skyrim
+Ungolim the Listener : UNIQUELEGENDARY : Core
+Unite the Houses : LEGENDARY : Houses of Morrowind
+Vigilant Giant : LEGENDARY : Core
+Vivec : UNIQUELEGENDARY : Houses of Morrowind
+Volendrung : UNIQUELEGENDARY : Core
+Wabbajack : UNIQUELEGENDARY : Core
+Wildfire Dragon : LEGENDARY : Heroes of Skyrim
+Wood Orc Headhunter : LEGENDARY : Core
+World-Eater's Eyrie : LEGENDARY : Heroes of Skyrim
+Yagrum Bagarn : UNIQUELEGENDARY : Houses of Morrowind
+Alik'r Survivalist : EPIC : Core
+Alpha Wolf : EPIC : Core
+Ancestor's Battleaxe : EPIC : Heroes of Skyrim
+Angry Grahl : EPIC : Core
+Arcane Enchanter : EPIC : Heroes of Skyrim
+Arenthia Swindler : EPIC : Core
+Artaeum Savant : EPIC : Core
+Balmora Spymaster : EPIC : Core
+Bandit Ringleader : EPIC : Heroes of Skyrim
+Barter : EPIC : Heroes of Skyrim
+Battlereeve of Dusk : EPIC : Monthly Rewards
+Belligerent Giant : EPIC : Core
+Black Hand Messenger : EPIC : Monthly Rewards
+Blackmail : EPIC : Core
+Blackrose Herbalist : EPIC : Core
+Blackwood Distiller : EPIC : Monthly Rewards
+Blighted Alit : EPIC : Core
+Blighted Werebat : EPIC : Houses of Morrowind
+Blood Sorceress : EPIC : The Fall of the Dark Brotherhood
+Brass Arquebus : EPIC : Return to Clockwork City
+Breton Conjurer : EPIC : Core
+Brilliant Experiment : EPIC : Core
+Burn and Pillage : EPIC : Core
+Camoran Scout Leader : EPIC : Core
+Cauldron Keeper : EPIC : Heroes of Skyrim
+Chaurus Breeding Pit : EPIC : Monthly Rewards
+Child of Hircine : EPIC : Core
+Cliff Strider : EPIC : Houses of Morrowind
+Clockwork Dragon : EPIC : Return to Clockwork City
+Cloudrest Illusionist : EPIC : Core
+Cog Collector : EPIC : Return to Clockwork City
+Conjuration Tutor : EPIC : Monthly Rewards
+Conjurer's Spirit : EPIC : Monthly Rewards
+Cornerclub Gambler : EPIC : Houses of Morrowind
+Corrupted Shade : EPIC : Heroes of Skyrim
+Dagi-raht Mystic : EPIC : Core
+Dark Rift : EPIC : Core
+Dawnstar Healer : EPIC : Core
+Deepwood Trapper : EPIC : Heroes of Skyrim
+Desperate Conjuring : EPIC : Core
+Disciple of Namira : EPIC : Core
+Divayth's Experiments : EPIC : Houses of Morrowind
+Divine Fervor : EPIC : Core
+Dragon Cult Ghost : EPIC : Heroes of Skyrim
+Dragon Priest Mask : EPIC : Heroes of Skyrim
+Dragonstar Rider : EPIC : Core
+Dread Clannfear : EPIC : Core
+Duel Atop the World : EPIC : Heroes of Skyrim
+Dushnikh Yal Archer : EPIC : Monthly Rewards
+Dwarven Armaments : EPIC : Core
+Dwarven Centurion : EPIC : Core
+Dwarven Colossus : EPIC : Return to Clockwork City
+Earthbone Spinner : EPIC : Core
+Eclipse Baroness : EPIC : The Fall of the Dark Brotherhood
+Edict of Azura : EPIC : Core
+Elder Centaur : EPIC : Core
+Elsweyr Lookout : EPIC : Monthly Rewards
+Emperor's Blade : EPIC : Monthly Rewards
+Falinesti Reaver : EPIC : Core
+Falling Wizard : EPIC : Houses of Morrowind
+False Incarnate : EPIC : Houses of Morrowind
+Fearless Northlander : EPIC : Core
+Fetcherfly Golem : EPIC : Houses of Morrowind
+Fleeting Apparition : EPIC : Houses of Morrowind
+Flesh Atronach : EPIC : Core
+Flesh Sculpture : EPIC : The Fall of the Dark Brotherhood
+Forsaken Champion : EPIC : Madhouse
+Forsworn Looter : EPIC : Heroes of Skyrim
+Frost Troll : EPIC : Heroes of Skyrim
+Frostscale Dragon : EPIC : Monthly Rewards
+Giant Snake : EPIC : Core
+Gladiator Arena : EPIC : Core
+Grahtwood Ambusher : EPIC : Core
+Gravesinger : EPIC : The Fall of the Dark Brotherhood
+Green-Touched Spriggan : EPIC : Core
+Grim Champion : EPIC : Core
+Hackwing Feather : EPIC : Core
+Hallowed Deathpriest : EPIC : Return to Clockwork City
+Halls of the Dwemer : EPIC : Core
+Hand of Dagoth : EPIC : Houses of Morrowind
+Haunted Manor : EPIC : Houses of Morrowind
+Heirloom Greatsword : EPIC : Core
+Helgen Squad Leader : EPIC : Core
+Hero of Anvil : EPIC : Core
+Heroic Rebirth : EPIC : Monthly Rewards
+Hidden Trail : EPIC : Core
+Hist Grove : EPIC : Monthly Rewards
+Hit and Run : EPIC : Heroes of Skyrim
+Hlaalu Sharpshooter : EPIC : Houses of Morrowind
+House Kinsman : EPIC : Core
+Hunter-Killers : EPIC : Return to Clockwork City
+Ice Storm : EPIC : Core
+Ice Wraith : EPIC : Core
+Iliac Sorcerer : EPIC : Core
+Illusory Mimic : EPIC : Madhouse
+Immolating Blast : EPIC : Core
+Imperial Might : EPIC : Core
+Imposter's Mission : EPIC : Houses of Morrowind
+Imprisoned Deathlord : EPIC : Core
+Indomitable Ordinator : EPIC : Houses of Morrowind
+Inspiring Kinsman : EPIC : Houses of Morrowind
+Keeper of Whispers : EPIC : Core
+Knight of Gnisis : EPIC : Houses of Morrowind
+Kwama Queen : EPIC : Houses of Morrowind
+Leaflurker : EPIC : Core
+Leafwater Blessing : EPIC : Core
+Light of the Three : EPIC : Houses of Morrowind
+Lion Guard Strategist : EPIC : Core
+Loyal Housecarl : EPIC : Core
+Lumbering Ogrim : EPIC : Core
+Mage Slayer : EPIC : Core
+Mages Guild Retreat : EPIC : Core
+Mantikora : EPIC : Core
+Markarth Bannerman : EPIC : Core
+Master of Arms : EPIC : Core
+Master of Thieves : EPIC : Core
+Mechanical Ally : EPIC : Monthly Rewards
+Memory Wraith : EPIC : Return to Clockwork City
+Militant Chieftain : EPIC : Core
+Moment of Clarity : EPIC : Core
+Moonlight Werebat : EPIC : Core
+Morag Tong Nightblade : EPIC : Houses of Morrowind
+Mournhold Traitor : EPIC : Core
+Mudcrab Merchant : EPIC : Houses of Morrowind
+Murkwater Shaman : EPIC : Core
+Murkwater Skirmisher : EPIC : Core
+Mushroom Tower : EPIC : Houses of Morrowind
+Necromancer's Amulet : EPIC : Core
+Night Predator : EPIC : Core
+Night Shadow : EPIC : Core
+Pack Leader : EPIC : Monthly Rewards
+Pahmar-raht Renegade : EPIC : Core
+Pillaging Tribune : EPIC : Core
+Pit Lion : EPIC : Core
+Plunder : EPIC : Core
+Power of the Almsivi : EPIC : Houses of Morrowind
+Praetorian Commander : EPIC : Heroes of Skyrim
+Preserver of the Root : EPIC : Core
+Prized Chicken : EPIC : Heroes of Skyrim
+Prophet of Bones : EPIC : Monthly Rewards
+Protector of the Mane : EPIC : Monthly Rewards
+Pure-Blood Elder : EPIC : Monthly Rewards
+Ravenous Hunger : EPIC : Core
+Reconstruction Engine : EPIC : Return to Clockwork City
+Rift Thane : EPIC : Core
+Sadras Agent : EPIC : Core
+Sentinel Battlemace : EPIC : Core
+Shadowfen Priest : EPIC : Core
+Shadowgreen Elder : EPIC : Heroes of Skyrim
+Shadowmaster : EPIC : Heroes of Skyrim
+Shimmerene Peddler : EPIC : Core
+Shornhelm Champion : EPIC : Core
+Shrine Guardian : EPIC : Houses of Morrowind
+Siege Catapult : EPIC : Core
+Skeleton Champion : EPIC : Houses of Morrowind
+Skywatch Vindicator : EPIC : Core
+Smuggler's Haul : EPIC : Monthly Rewards
+Snowy Sabre Cat : EPIC : Core
+Sower of Revenge : EPIC : Monthly Rewards
+Spider Lair : EPIC : Core
+Spiteful Dremora : EPIC : Core
+Stampede Sentinel : EPIC : Monthly Rewards
+Stampeding Mammoth : EPIC : Core
+Star-Sung Bard : EPIC : Return to Clockwork City
+Steam Constructor : EPIC : Monthly Rewards
+Stolen Pants : EPIC : Houses of Morrowind
+Stormcloak Avenger : EPIC : Heroes of Skyrim
+Stronghold Eradicator : EPIC : Core
+Stronghold Incubator : EPIC : Core
+Studium Headmaster : EPIC : Core
+Summerset Orrery : EPIC : Core
+Tel Vos Magister : EPIC : Houses of Morrowind
+Tenmar Swiftclaw : EPIC : Core
+Thalmor Embassy : EPIC : Heroes of Skyrim
+Thief of Dreams : EPIC : Heroes of Skyrim
+Thorn Histmage : EPIC : Core
+Torval Crook : EPIC : Core
+Tower Alchemist : EPIC : Core
+Traitor's Flames : EPIC : Houses of Morrowind
+Trebuchet : EPIC : Core
+Tullius' Conscription : EPIC : Forgotten Hero
+Ulfric's Housecarl : EPIC : Monthly Rewards
+Ulfric's Uprising : EPIC : Forgotten Hero
+Unstoppable Rage : EPIC : The Fall of the Dark Brotherhood
+Vigilant Ancestor : EPIC : Houses of Morrowind
+Voice of Balance : EPIC : Forgotten Hero
+Waves of the Fallen : EPIC : Heroes of Skyrim
+Whirling Duelist : EPIC : Core
+Wild Beastcaller : EPIC : Core
+Winter's Grasp : EPIC : Core
+Wisdom of Ancients : EPIC : Core
+Wispmother : EPIC : Core
+Withered Hand Cultist : EPIC : Core
+Wolf Cage : EPIC : Heroes of Skyrim
+Worm King's Agent : EPIC : Monthly Rewards
+Wrothgar Forge : EPIC : Core
+Wrothgar Kingpin : EPIC : Core
+A Night to Remember : RARE : Heroes of Skyrim
+Abandoned Imperfect : RARE : Return to Clockwork City
+Aela's Huntmate : RARE : Heroes of Skyrim
+Afflicted Alit : RARE : Core
+Ageless Automaton : RARE : Core
+Ald Velothi Assassin : RARE : Houses of Morrowind
+Ald'ruhn Arms Master : RARE : Houses of Morrowind
+Aldmeri Patriot : RARE : Core
+Almalexia's Disciple : RARE : Houses of Morrowind
+Archein Elite : RARE : Core
+Archein Venomtongue : RARE : Core
+Archer's Gambit : RARE : Heroes of Skyrim
+Arrest : RARE : Heroes of Skyrim
+Arrow Storm : RARE : Core
+Ascended Sleeper : RARE : Houses of Morrowind
+Ash Berserker : RARE : Houses of Morrowind
+Ash Piercer : RARE : Houses of Morrowind
+Ash Servant : RARE : Core
+Assassin's Bow : RARE : Core
+Assassin's Ritual : RARE : Heroes of Skyrim
+Awakened Dreamer : RARE : Houses of Morrowind
+Awakened Imperfect : RARE : Return to Clockwork City
+Back-Alley Rogue : RARE : Return to Clockwork City
+Balmora Puppeteer : RARE : Houses of Morrowind
+Barilzar's Tinkering : RARE : Houses of Morrowind
+Baron of Tear : RARE : Core
+Barrow Stalker : RARE : Return to Clockwork City
+Battlefield Scrounger : RARE : Heroes of Skyrim
+Battlemage's Onslaught : RARE : Heroes of Skyrim
+Betty Netch : RARE : Houses of Morrowind
+Black Worm Necromancer : RARE : Core
+Blacksap Protector : RARE : Core
+Bleakcoast Troll : RARE : Forgotten Hero
+Blood Pact Messenger : RARE : The Fall of the Dark Brotherhood
+Blood Sacrament : RARE : Houses of Morrowind
+Bog Lurcher : RARE : Core
+Bone Bow : RARE : Core
+Brassilisk : RARE : Return to Clockwork City
+Brotherhood Sanctuary : RARE : The Fall of the Dark Brotherhood
+Bruma Armorer : RARE : Core
+Bruma Profiteer : RARE : Core
+Caius' Machinations : RARE : Houses of Morrowind
+Camonna Tong Heavy : RARE : Houses of Morrowind
+Candlehearth Brawler : RARE : Heroes of Skyrim
+Cast Into Time : RARE : Forgotten Hero
+Cast Out : RARE : Core
+Chanter of Akatosh : RARE : The Fall of the Dark Brotherhood
+Chieftain's Banner : RARE : Core
+Cliff Racer : RARE : Core
+Close Call : RARE : Madhouse
+Companion Harbinger : RARE : Heroes of Skyrim
+Corprus Disease : RARE : Houses of Morrowind
+Corsair Ship : RARE : The Fall of the Dark Brotherhood
+Covenant Marauder : RARE : Core
+Cradlecrush Giant : RARE : Forgotten Hero
+Craglorn Scavenger : RARE : Core
+Crassius' Favor : RARE : Houses of Morrowind
+Cruel Firebloom : RARE : Core
+Crusader's Assault : RARE : Heroes of Skyrim
+Curse : RARE : Core
+Daring Heist : RARE : Return to Clockwork City
+Deshaan Avenger : RARE : Core
+Devour : RARE : Heroes of Skyrim
+Dismantle : RARE : Houses of Morrowind
+Doppelganger : RARE : Forgotten Hero
+Dragon Aspect : RARE : Return to Clockwork City
+Dres Renegade : RARE : Core
+Dres Tormentor : RARE : Core
+Dreugh Shell Armor : RARE : Core
+Dune Smuggler : RARE : Core
+Dune Stalker : RARE : Core
+Dwarven Dynamo : RARE : Heroes of Skyrim
+Dwemer Puzzle Box : RARE : Houses of Morrowind
+Eastmarch Crusader : RARE : Core
+Eldergleam Matron : RARE : Heroes of Skyrim
+Elixir of Conflict : RARE : Core
+Elixir of Deflection : RARE : Core
+Elixir of Light Feet : RARE : Core
+Elixir of the Defender : RARE : Core
+Elixir of Vigor : RARE : Core
+Elusive Schemer : RARE : Core
+Embassy Disguise : RARE : Heroes of Skyrim
+Encumbered Explorer : RARE : Heroes of Skyrim
+Evermore Steward : RARE : Core
+Excavate : RARE : Return to Clockwork City
+Fabricate : RARE : Return to Clockwork City
+Falkreath Defiler : RARE : The Fall of the Dark Brotherhood
+Fate Weaver : RARE : Core
+Feasting Hunger : RARE : Houses of Morrowind
+Feasting Vulture : RARE : Core
+Fiery Imp : RARE : Core
+Fifth Legion Trainer : RARE : Core
+Fighters Guild Hall : RARE : Houses of Morrowind
+Fighters Guild Steward : RARE : Houses of Morrowind
+Fire Storm : RARE : Core
+Fireball : RARE : Core
+Forsworn Guide : RARE : Core
+Frostbite Spider : RARE : Core
+Gardener of Swords : RARE : Madhouse
+Ghostgate Defender : RARE : Houses of Morrowind
+Glenumbra Sorceress : RARE : Core
+Gloom Wraith : RARE : Core
+Goblin Skulk : RARE : Core
+Golden Saint : RARE : Core
+Grand Ball : RARE : The Fall of the Dark Brotherhood
+Grand Inquisitor : RARE : Houses of Morrowind
+Green Pact Stalker : RARE : Core
+Grisly Gourmet : RARE : Heroes of Skyrim
+Hatchery Meddler : RARE : Houses of Morrowind
+Haunting Spirit : RARE : Core
+High Rock Summoner : RARE : Core
+Hive Defender : RARE : Core
+Hive Warrior : RARE : Core
+Icewing Dragon : RARE : Heroes of Skyrim
+Imperial Camp : RARE : Heroes of Skyrim
+Imperial Reinforcements : RARE : Core
+Imperial Siege Engine : RARE : Core
+Imprison : RARE : Core
+Improvised Weapon : RARE : Core
+Indoril Mastermind : RARE : Houses of Morrowind
+Insightful Scholar : RARE : Heroes of Skyrim
+Inspiring Stormcloak : RARE : Heroes of Skyrim
+Intimidate : RARE : Core
+Karthspire Scourge : RARE : Heroes of Skyrim
+Khuul Lawkeeper : RARE : Houses of Morrowind
+Lay Down Arms : RARE : Heroes of Skyrim
+Legion Shield : RARE : Core
+Little Girl : RARE : The Fall of the Dark Brotherhood
+Lockpick : RARE : Heroes of Skyrim
+Lowland Troll : RARE : Core
+Lute : RARE : Heroes of Skyrim
+Mace of Encumbrance : RARE : Core
+Mage's Trick : RARE : Heroes of Skyrim
+Malefic Wreath : RARE : Core
+Master Swordsmith : RARE : Heroes of Skyrim
+Mecinar's Will : RARE : Return to Clockwork City
+Midnight Sweep : RARE : Core
+Monk's Strike : RARE : Heroes of Skyrim
+Moon Sugar Smuggler : RARE : Houses of Morrowind
+Morag Tong Assassin : RARE : Houses of Morrowind
+Morthal Executioner : RARE : Core
+Mountain Tyrant : RARE : Core
+Move in Shadows : RARE : Heroes of Skyrim
+Mummify : RARE : Core
+Murkwater Savage : RARE : Core
+Murkwater Witch : RARE : Core
+Namira's Shrine : RARE : Forgotten Hero
+Nightprowler : RARE : Heroes of Skyrim
+Northpoint Captain : RARE : Core
+Northwind Outpost : RARE : Core
+Orc Clan Captain : RARE : Core
+Orc Clan Shaman : RARE : Core
+Orcish Warhammer : RARE : Core
+Orvas' Bargain : RARE : Houses of Morrowind
+Penitus Oculatus Agent : RARE : The Fall of the Dark Brotherhood
+Phalanx Exemplar : RARE : Return to Clockwork City
+Plea to Kynareth : RARE : Core
+Poetic Armiger : RARE : Houses of Morrowind
+Prison Ship : RARE : Houses of Morrowind
+Raging Horker : RARE : Heroes of Skyrim
+Raiding Party : RARE : Core
+Rampaging Minotaur : RARE : Core
+Ransack : RARE : Core
+Ratway Prospector : RARE : Return to Clockwork City
+Redoran Forerunner : RARE : Houses of Morrowind
+Revealing the Unseen : RARE : Heroes of Skyrim
+Riften Pickpocket : RARE : Heroes of Skyrim
+Ring of Imaginary Might : RARE : Madhouse
+Riverhold Escort : RARE : Core
+Royal Sage : RARE : Core
+Scout's Report : RARE : Heroes of Skyrim
+Septim Guardsman : RARE : Core
+Shearpoint Dragon : RARE : Heroes of Skyrim
+Shivering Apothecary : RARE : Madhouse
+Shrieking Harpy : RARE : Core
+Silent Pilgrim : RARE : Houses of Morrowind
+Silt Strider : RARE : Houses of Morrowind
+Silvenar Tracker : RARE : Core
+Skeevaton : RARE : Return to Clockwork City
+Skeever Infestation : RARE : The Fall of the Dark Brotherhood
+Skilled Blacksmith : RARE : Core
+Skirmisher's Elixir : RARE : Core
+Skooma Racketeer : RARE : Core
+Skyborn Dragon : RARE : Heroes of Skyrim
+Slaughterfish Spawning : RARE : Core
+Sly Marshblade : RARE : Forgotten Hero
+Snake Tooth Necklace : RARE : Core
+Snow Wolf : RARE : Core
+Sorcerer's Negation : RARE : Heroes of Skyrim
+Soulrest Marshal : RARE : Core
+Spear of Embers : RARE : The Fall of the Dark Brotherhood
+Spellsword's Summoning : RARE : Heroes of Skyrim
+Spine of Eldersblood : RARE : Heroes of Skyrim
+Steelheart Vanquisher : RARE : Heroes of Skyrim
+Stoneshard Orc : RARE : Madhouse
+Stormcloak Camp : RARE : Heroes of Skyrim
+Studious Greybeard : RARE : Heroes of Skyrim
+Suppress : RARE : Core
+Suran Pawnbroker : RARE : Houses of Morrowind
+Swift Strike : RARE : Core
+Swindler's Market : RARE : Madhouse
+Telvanni Arcanist : RARE : Core
+Telvanni Catspaw : RARE : Houses of Morrowind
+Temple Conjurer : RARE : Houses of Morrowind
+Temple Patriarch : RARE : Houses of Morrowind
+Territorial Viper : RARE : Core
+Thieves Guild Shadowfoot : RARE : Heroes of Skyrim
+Throne Aligned : RARE : Return to Clockwork City
+Treasure Map : RARE : Return to Clockwork City
+Trial of Flame : RARE : Return to Clockwork City
+Triumphant Jarl : RARE : Core
+Two-Moons Contemplation : RARE : Core
+Underworld Vigilante : RARE : The Fall of the Dark Brotherhood
+Vicious Dreugh : RARE : Core
+Vvardvark Experiment : RARE : Houses of Morrowind
+War Cry : RARE : Core
+Wardcrafter : RARE : Core
+Warrior's Fury : RARE : Heroes of Skyrim
+Watch Commander : RARE : Core
+Whiterun Protector : RARE : Heroes of Skyrim
+Wrath of Sithis : RARE : The Fall of the Dark Brotherhood
+Yew Shield : RARE : Core
+Young Dragonborn : RARE : Heroes of Skyrim
+Young Mammoth : RARE : Core
+Abecean Navigator : COMMON : Core
+Ambitious Hireling : COMMON : Houses of Morrowind
+An-Xileel Invader : COMMON : Core
+Ancestral Dead : COMMON : Houses of Morrowind
+Ancient Lookout : COMMON : Heroes of Skyrim
+Arcaneum Librarian : COMMON : Return to Clockwork City
+Arrow in the Knee : COMMON : Core
+Ash Oppressor : COMMON : Houses of Morrowind
+Ashlander Zealot : COMMON : Houses of Morrowind
+Assembled Conduit : COMMON : Return to Clockwork City
+Assembled Sanitizer : COMMON : Return to Clockwork City
+Assembled Sentry : COMMON : Return to Clockwork City
+Auridon Paladin : COMMON : Core
+Baandari Bruiser : COMMON : Core
+Bal Isra Warrider : COMMON : Houses of Morrowind
+Bangkorai Butcher : COMMON : Core
+Barded Guar : COMMON : Core
+Battlerage Orc : COMMON : Core
+Berserker of the Pale : COMMON : Heroes of Skyrim
+Blackreach Rebuilder : COMMON : Heroes of Skyrim
+Blades Lookout : COMMON : Heroes of Skyrim
+Bloodline Outcast : COMMON : Houses of Morrowind
+Blueclaw Matron : COMMON : Houses of Morrowind
+Bonewalker : COMMON : Houses of Morrowind
+Brotherhood Slayer : COMMON : The Fall of the Dark Brotherhood
+Brutal Ashlander : COMMON : Core
+Burning Touch : COMMON : Houses of Morrowind
+Bushwhack : COMMON : Houses of Morrowind
+Call of Valor : COMMON : Heroes of Skyrim
+Calm : COMMON : Core
+Camlorn Hero : COMMON : Core
+Camlorn Sentinel : COMMON : Core
+Caravan Enforcer : COMMON : Heroes of Skyrim
+Cathay-raht Veteran : COMMON : Core
+Cave Bear : COMMON : Heroes of Skyrim
+Chaurus : COMMON : Heroes of Skyrim
+Chaurus Reaper : COMMON : Core
+Cheydinhal Sapper : COMMON : Core
+Circle Initiate : COMMON : Heroes of Skyrim
+Cleric of Kyne : COMMON : Heroes of Skyrim
+Cliff Hunter : COMMON : Houses of Morrowind
+Cliffside Lookout : COMMON : Heroes of Skyrim
+Clockwork Apostle : COMMON : Return to Clockwork City
+Clockwork City Pilgrim : COMMON : Heroes of Skyrim
+Clockwork Scorpion : COMMON : Return to Clockwork City
+Conjuration Scholar : COMMON : Heroes of Skyrim
+Court Wizard : COMMON : Heroes of Skyrim
+Crown Quartermaster : COMMON : Core
+Crushing Blow : COMMON : Core
+Crystal Tower Crafter : COMMON : Core
+Cunning Ally : COMMON : Core
+Cursed Spectre : COMMON : Core
+Daedric Crescent : COMMON : Houses of Morrowind
+Daedric Dagger : COMMON : Core
+Daggers in the Dark : COMMON : The Fall of the Dark Brotherhood
+Dagoth Dagger : COMMON : Houses of Morrowind
+Dagoth Oathman : COMMON : Houses of Morrowind
+Daring Cutpurse : COMMON : Core
+Dark Guardian : COMMON : The Fall of the Dark Brotherhood
+Dark Harvester : COMMON : Core
+Dark Rebirth : COMMON : Heroes of Skyrim
+Deadly Draugr : COMMON : Core
+Deathless Draugr : COMMON : Core
+Deranged Corprus : COMMON : Houses of Morrowind
+Dormant Centurion : COMMON : Return to Clockwork City
+Dovah of the Voice : COMMON : Heroes of Skyrim
+Dragon's Fury : COMMON : Heroes of Skyrim
+Dragonplate Armor : COMMON : Heroes of Skyrim
+Dragontail Savior : COMMON : Core
+Drain Blood : COMMON : Houses of Morrowind
+Drain Vitality : COMMON : Heroes of Skyrim
+Dren Bodyguard : COMMON : Houses of Morrowind
+Dres Spy : COMMON : Houses of Morrowind
+Dunmer Nightblade : COMMON : Core
+Dwarven Ballista : COMMON : Core
+Dwarven Sphere : COMMON : Core
+Dwarven Spider : COMMON : Core
+East Empire Crafter : COMMON : Heroes of Skyrim
+Elixir of Vitality : COMMON : Heroes of Skyrim
+Embassy Guard : COMMON : Heroes of Skyrim
+Enchanted Plate : COMMON : Core
+Enraged Mudcrab : COMMON : Core
+Execute : COMMON : Core
+Farsight Nereid : COMMON : Core
+Fell the Mighty : COMMON : The Fall of the Dark Brotherhood
+Ferocious Dreugh : COMMON : Core
+Fharun Defender : COMMON : Core
+Fighters Guild Recruit : COMMON : Core
+Finish Off : COMMON : Core
+Fire Breath : COMMON : Heroes of Skyrim
+Firebolt : COMMON : Core
+Firepot Spider : COMMON : Return to Clockwork City
+Fortress Watchman : COMMON : Core
+Frenzied Witchman : COMMON : Core
+Gavel of the Ordinator : COMMON : Houses of Morrowind
+Gearwork Spider : COMMON : Return to Clockwork City
+Ghost Sea Lookout : COMMON : Heroes of Skyrim
+Giant Bat : COMMON : Core
+Glass Greaves : COMMON : Houses of Morrowind
+Glass Helm of Remedy : COMMON : Heroes of Skyrim
+Gloomlurker : COMMON : Heroes of Skyrim
+Grappling Hook : COMMON : Return to Clockwork City
+Graystone Ravager : COMMON : Core
+Greenheart Knight : COMMON : Core
+Greybeard Mentor : COMMON : Heroes of Skyrim
+Grim Shield-Brother : COMMON : Heroes of Skyrim
+Gristlehide Dreugh : COMMON : The Fall of the Dark Brotherhood
+Guar Stablemaster : COMMON : Houses of Morrowind
+Healing Hands : COMMON : Core
+Healing Potion : COMMON : Core
+Heavy Battleaxe : COMMON : Core
+Helstrom Footpad : COMMON : Core
+Highland Lurcher : COMMON : Core
+Hist Speaker : COMMON : Core
+Hlaalu Oathman : COMMON : Houses of Morrowind
+Horned Helm : COMMON : Heroes of Skyrim
+Hulking Fabricant : COMMON : Return to Clockwork City
+Ice Spike : COMMON : Core
+Illusory Defenses : COMMON : Houses of Morrowind
+Imperial Armor : COMMON : Core
+Imperial Legionnaire : COMMON : Core
+Ironscale Dragon : COMMON : Heroes of Skyrim
+Jerall Forager : COMMON : Starter Cards
+Kagouti Fabricant : COMMON : Return to Clockwork City
+Knife to the Throat : COMMON : The Fall of the Dark Brotherhood
+Knight of the Hour : COMMON : The Fall of the Dark Brotherhood
+Kvatch Soldier : COMMON : Core
+Lame Corprus : COMMON : Houses of Morrowind
+Legion Praefect : COMMON : Core
+Lesser Ward : COMMON : Core
+Lightning Bolt : COMMON : Core
+Lillandril Hexmage : COMMON : Core
+Lower Canton Smith : COMMON : Houses of Morrowind
+Lurking Crocodile : COMMON : Core
+Lurking Mummy : COMMON : Core
+Mages Guild Recruit : COMMON : Houses of Morrowind
+Maple Shield : COMMON : Core
+Marked Man : COMMON : The Fall of the Dark Brotherhood
+Mentor of the Watch : COMMON : Heroes of Skyrim
+Merchant's Camel : COMMON : Madhouse
+Midnight Snack : COMMON : Heroes of Skyrim
+Mighty Ally : COMMON : Core
+Mistveil Enchanter : COMMON : Heroes of Skyrim
+Mistveil Warden : COMMON : Return to Clockwork City
+Moonmoth Castellan : COMMON : Houses of Morrowind
+Morkul Gatekeeper : COMMON : Core
+Morthal Watchman : COMMON : Starter Cards
+Mournhold Guardian : COMMON : Core
+Mournhold Pilgrim : COMMON : Houses of Morrowind
+Mudcrab Anklesnapper : COMMON : Heroes of Skyrim
+Murkwater Butcher : COMMON : Core
+Murkwater Goblin : COMMON : Core
+Murkwater Guide : COMMON : Return to Clockwork City
+Mystic Dragon : COMMON : Heroes of Skyrim
+Niben Bay Cutthroat : COMMON : Core
+Nimble Ally : COMMON : Core
+Nix-Hound : COMMON : Houses of Morrowind
+Nix-Hound Fabricant : COMMON : Return to Clockwork City
+Nix-Ox : COMMON : Houses of Morrowind
+Nord Firebrand : COMMON : Core
+Oldgate Warden : COMMON : Core
+Ornery Kagouti : COMMON : Houses of Morrowind
+Pack Wolf : COMMON : Core
+Palace Conspirator : COMMON : The Fall of the Dark Brotherhood
+Palace Prowler : COMMON : Heroes of Skyrim
+Paralyze : COMMON : Heroes of Skyrim
+Piercing Javelin : COMMON : Core
+Portcullis : COMMON : Core
+Priest of the Eight : COMMON : Heroes of Skyrim
+Priest of the Moons : COMMON : Core
+Protector of the Innocent : COMMON : The Fall of the Dark Brotherhood
+Quarra Clan Bloodkin : COMMON : Houses of Morrowind
+Quicksilver Crossbow : COMMON : The Fall of the Dark Brotherhood
+Rajhini Highwayman : COMMON : Core
+Rapid Shot : COMMON : Core
+Ravenous Crocodile : COMMON : Core
+Reachman Shaman : COMMON : Core
+Redoran Battlespear : COMMON : Houses of Morrowind
+Redoran Enforcer : COMMON : Core
+Redoran Oathman : COMMON : Houses of Morrowind
+Reflective Automaton : COMMON : Return to Clockwork City
+Relic Hunter : COMMON : Return to Clockwork City
+Resolute Ally : COMMON : Core
+Restless Templar : COMMON : Core
+Restoration Tutor : COMMON : Heroes of Skyrim
+Reverberating Strike : COMMON : Return to Clockwork City
+Revered Guardian : COMMON : Heroes of Skyrim
+Riften Lawkeeper : COMMON : Return to Clockwork City
+Riften Pillager : COMMON : Core
+Rihad Battlemage : COMMON : Core
+Rihad Horseman : COMMON : Core
+Rising of Bones : COMMON : Houses of Morrowind
+Ruin Archaeologist : COMMON : Return to Clockwork City
+Ruthless Freebooter : COMMON : Return to Clockwork City
+Sanctuary Pet : COMMON : The Fall of the Dark Brotherhood
+Sanctuary Raid : COMMON : The Fall of the Dark Brotherhood
+Sarethi Scion : COMMON : Houses of Morrowind
+Savage Ogre : COMMON : Core
+Scouting Patrol : COMMON : Core
+Scroll Seeker : COMMON : Return to Clockwork City
+Scuttler : COMMON : Starter Cards
+Senche-Tiger : COMMON : Core
+Servant of Dagoth : COMMON : Houses of Morrowind
+Seyda Neen Courier : COMMON : Houses of Morrowind
+Shadow Shift : COMMON : Core
+Shadowscale Partisan : COMMON : Heroes of Skyrim
+Shalk Fabricant : COMMON : Return to Clockwork City
+Sharpshooter Scout : COMMON : Core
+Shield Breaker : COMMON : Heroes of Skyrim
+Shocking Wamasu : COMMON : Core
+Sightless Skulk : COMMON : Heroes of Skyrim
+Sixth House Amulet : COMMON : Houses of Morrowind
+Skaven Pyromancer : COMMON : Core
+Skingrad Patroller : COMMON : Core
+Skooma Underboss : COMMON : The Fall of the Dark Brotherhood
+Snowhawk Detachment : COMMON : Heroes of Skyrim
+Solitude Stalwart : COMMON : Heroes of Skyrim
+Soul Split : COMMON : Core
+Soul Tear : COMMON : Heroes of Skyrim
+Sparking Spider : COMMON : Core
+Spider Worker : COMMON : Core
+Spirit Knife : COMMON : Houses of Morrowind
+Stalking Shadowscale : COMMON : The Fall of the Dark Brotherhood
+Stalwart Ally : COMMON : Core
+Stand Watch : COMMON : Houses of Morrowind
+Stealer of Secrets : COMMON : The Fall of the Dark Brotherhood
+Steel Scimitar : COMMON : Core
+Steel Sword : COMMON : Core
+Stone Throw : COMMON : Core
+Stonehill Mammoth : COMMON : Heroes of Skyrim
+Stonetooth Scrapper : COMMON : Core
+Stormcloak Vanguard : COMMON : Heroes of Skyrim
+Stormhold Henchman : COMMON : Core
+Stoutheart Giant : COMMON : Heroes of Skyrim
+Stronghold Patrol : COMMON : Heroes of Skyrim
+Summerset Shieldmage : COMMON : Core
+Sunhold Medic : COMMON : Core
+Swamp Leviathan : COMMON : Core
+Swiftwing Dragon : COMMON : Heroes of Skyrim
+Telvanni Oathman : COMMON : Houses of Morrowind
+Thalmor Justiciar : COMMON : Heroes of Skyrim
+Therana's Lawman : COMMON : Houses of Morrowind
+Thievery : COMMON : Core
+Thieves Guild Recruit : COMMON : Core
+Thornwell Terror : COMMON : Return to Clockwork City
+Tome of Alteration : COMMON : Core
+Tree Minder : COMMON : Core
+Trespasser's Bane : COMMON : Houses of Morrowind
+Tribunal Oathman : COMMON : Houses of Morrowind
+Tusked Bristleback : COMMON : Core
+Twin Lamps Consul : COMMON : Houses of Morrowind
+Ulfric's Zealot : COMMON : Heroes of Skyrim
+Unrelenting Force : COMMON : Heroes of Skyrim
+Valenwood Huntsman : COMMON : Core
+Varanis Courier : COMMON : Core
+Verminous Fabricant : COMMON : Return to Clockwork City
+Vigilant of Stendarr : COMMON : Heroes of Skyrim
+Vivec City Pilgrim : COMMON : Houses of Morrowind
+Voracious Spriggan : COMMON : Core
+Warclaw Mercenary : COMMON : Houses of Morrowind
+Weakness : COMMON : Return to Clockwork City
+Whiterun Trooper : COMMON : Starter Cards
+Wild Clumsiness : COMMON : Houses of Morrowind
+Wind Keep Spellsword : COMMON : Core
+Winterhold Illusionist : COMMON : Heroes of Skyrim
+Woodland Lookout : COMMON : Heroes of Skyrim
+Word Wall : COMMON : Heroes of Skyrim
+Writ of Execution : COMMON : Houses of Morrowind
+Wrothgar Artisan : COMMON : Core

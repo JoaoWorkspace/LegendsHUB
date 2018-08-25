@@ -1,0 +1,17 @@
+Nord Firebrand : 3
+Rapid Shot : 3
+Sharpshooter Scout : 3
+Protector of the Innocent : 3
+Silvenar Tracker : 3
+Stormcloak Vanguard : 3
+Northwind Outpost : 3
+Raiding Party : 3
+Skaven Pyromancer : 2
+Stronghold Patrol : 3
+Dushnikh Yal Archer : 3
+Earthbone Spinner : 3
+Disciple of Namira : 3
+Markarth Bannerman : 3
+Underworld Vigilante : 3
+Doomcrag Vampire : 3
+Vigilant Giant : 3

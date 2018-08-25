@@ -1,0 +1,22 @@
+Paarthurnax : 1
+Earthbone Spinner : 1
+Murkwater Shaman : 1
+Leaflurker : 1
+Duel Atop the World : 1
+Archer's Gambit : 2
+Murkwater Witch : 2
+Skooma Racketeer : 2
+Young Dragonborn : 3
+Shearpoint Dragon : 3
+Drain Vitality : 3
+Rapid Shot : 3
+Word Wall : 3
+Fighters Guild Recruit : 3
+Finish Off : 2
+Thieves Guild Recruit : 3
+Nimble Ally : 3
+Shadowscale Partisan : 3
+Unrelenting Force : 3
+Greybeard Mentor : 3
+Sightless Skulk : 1
+Dovah of the Voice : 3

@@ -1,0 +1,19 @@
+Firebolt : 3
+Cleric of Kyne : 3
+Lurking Crocodile : 3
+Shrieking Harpy : 3
+Wardcrafter : 3
+Daggerfall Mage : 3
+Dawnstar Healer : 3
+Eastmarch Crusader : 3
+Cloudrest Illusionist : 3
+Hive Defender : 3
+Lightning Bolt : 3
+Mystic Dragon : 3
+The Black Dragon : 1
+Ayrenn : 1
+Piercing Javelin : 3
+Thief of Dreams : 3
+Golden Saint : 2
+Ancano : 1
+Supreme Atromancer : 3

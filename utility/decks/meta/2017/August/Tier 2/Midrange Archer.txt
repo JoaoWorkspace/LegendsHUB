@@ -1,0 +1,18 @@
+Curse : 3
+Rapid Shot : 3
+Circle Initiate : 3
+Finish Off : 2
+Goblin Skulk : 3
+Mournhold Traitor : 3
+Thieves Guild Recruit : 3
+Brotherhood Slayer : 3
+Shadowmaster : 3
+Skaven Pyromancer : 3
+Aela's Huntmate : 3
+Garnag, Dark Adherent : 1
+Murkwater Shaman : 3
+Blood Dragon : 3
+Cliff Racer : 3
+Leaflurker : 3
+Shearpoint Dragon : 3
+Triumphant Jarl : 2

@@ -1,0 +1,19 @@
+Curse : 3
+Rapid Shot : 3
+Daring Cutpurse : 3
+Goblin Skulk : 3
+Mournhold Traitor : 3
+Thieves Guild Recruit : 3
+Brotherhood Slayer : 3
+Morkul Gatekeeper : 3
+Sanctuary Pet : 3
+Skaven Pyromancer : 3
+Earthbone Spinner : 3
+Garnag, Dark Adherent : 1
+Lumbering Ogrim : 3
+Blood Dragon : 2
+Cliff Racer : 3
+Leaflurker : 3
+Underworld Vigilante : 3
+Belligerent Giant : 3
+Tazkad the Packmaster : 1

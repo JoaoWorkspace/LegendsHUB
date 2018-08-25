@@ -1,0 +1,19 @@
+Relentless Raider : 3
+Afflicted Alit : 3
+Graystone Ravager : 3
+Lurking Crocodile : 3
+Shrieking Harpy : 3
+Wardcrafter : 3
+Camlorn Hero : 3
+Camlorn Sentinel : 3
+Cast Out : 3
+Daggerfall Mage : 3
+Morkul Gatekeeper : 3
+Earthbone Spinner : 3
+Garnag, Dark Adherent : 1
+Lightning Bolt : 3
+Reive, Blademaster : 1
+Sentinel Battlemace : 3
+Underworld Vigilante : 2
+Triumphant Jarl : 2
+Savage Ogre : 3

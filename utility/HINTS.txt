@@ -1,3 +1,5 @@
+Hint: Upload/Update your collection for the best experience.
+Hint: Craftable META decks have different color.
 Hint: Click on a card to get more information about it.
-Hint: Filter out the Set or Rarity you don't wish to craft from.
-Hint: Update your collection for better results.
+Hint: You should always click on the card before crafting.
+Hint: Filter what Set or Rarity you want to craft from.

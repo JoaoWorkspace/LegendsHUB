@@ -1,0 +1,22 @@
+Elixir of Vitality : 3
+Execute : 3
+Firebolt : 3
+Shrieking Harpy : 3
+Excavate : 2
+Reverberating Strike : 3
+Tower Alchemist : 3
+Cloudrest Illusionist : 3
+Hive Defender : 3
+Lightning Bolt : 3
+Ayrenn : 1
+Cauldron Kepper : 3
+College of Winterhold : 1
+Piercing Javelin : 3
+Ice Storm : 3
+Orb of Vaermina : 1
+Goldbrand : 1
+Ancano : 1
+Dawn's Wrath : 2
+Laaneth : 1
+Mantikora : 3
+Miraak, Dragonborn : 1

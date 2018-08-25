@@ -1,0 +1,21 @@
+Curse : 3
+Rapid Shot : 3
+Shadow Shift : 3
+Ungolim the Listener : 1
+Goblin Skulk : 3
+Mournhold Traitor : 3
+Thieves Guild Recruit : 3
+Astrid : 1
+Brotherhood Slayer : 3
+Skaven Pyromancer : 3
+Earthbone Spinner : 3
+Garnag, Dark Adherent : 1
+Murkwater Shaman : 3
+Reive, Blademaster : 1
+Blood Dragon : 1
+Cliff Racer : 3
+Leaflurker : 3
+Underworld Vigilante : 2
+Triumphant Jarl : 3
+Belligerent Giant : 3
+Tazkad the Packmaster : 1

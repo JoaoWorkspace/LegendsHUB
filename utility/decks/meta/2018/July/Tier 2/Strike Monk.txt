@@ -1,0 +1,22 @@
+Curse : 3
+Execute : 2
+Shadow Shift : 2
+Goblin Skulk : 3
+Mournhold Traitor : 3
+Suran Pawnbroker : 3
+Thieves Guild Recruit : 2
+Brotherhood Slayer : 3
+Cornerclub Gambler : 3
+Nimble Ally : 3
+Swift Strike : 2
+Cloudrest Illusionist : 3
+Dawnbreaker : 1
+Hive Defender : 3
+Monk's Strike : 2
+The Black Dragon : 1
+Ahnassi : 1
+Brynjolf : 1
+Cliff Racer : 3
+Leaflurker : 2
+Shearpoint Dragon : 3
+Tazkad the Packmaster : 1

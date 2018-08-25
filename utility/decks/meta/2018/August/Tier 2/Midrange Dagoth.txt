@@ -1,0 +1,36 @@
+Nord Firebrand : 3
+Crown Quartermaster : 3
+Morag Tong Aspirant : 2
+Shadow Shift : 1
+Sixth House Amulet : 2
+Steel Scimitar : 2
+Awakened Dreamer : 1
+Circle Initiate : 2
+Gloomlurker : 1
+Goblin Skulk : 3
+Mournhold Traitor : 3
+Orc Clan Captain : 3
+Shrieking Harpy : 3
+Stormcloak Vanguard : 2
+Wardcrafter : 3
+Cornerclub Gambler : 3
+Daggerfall Mage : 3
+Hlaalu Sharpshooter : 1
+Morkul Gatekeeper : 3
+Ash Berserker : 2
+Candlehearth Brawler : 1
+Earthbone Spinner : 2
+Garnag, Dark Adherent : 1
+Lightning Bolt : 3
+Queen Barenziah : 1
+Reive, Blademaster : 1
+Sentinel Battlemace : 3
+Brynjolf : 1
+Cliff Racer : 3
+Hand of Dagoth : 3
+Leaflurker : 1
+Tel Vos Magister : 1
+Triumphant Jarl : 2
+Aela the Huntress : 1
+Ancano : 1
+Supreme Atromancer : 1

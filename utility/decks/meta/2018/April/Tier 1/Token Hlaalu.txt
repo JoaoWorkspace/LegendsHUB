@@ -1,0 +1,27 @@
+Nord Firebrand : 3
+Marked Man : 3
+Steel Scimitar : 3
+Ambitious Hireling : 2
+Balmora Puppeteer : 2
+Fifth Legion Trainer : 3
+Goblin Skulk : 3
+Mournhold Traitor : 3
+Orc Clan Captain : 3
+Rift Thane : 3
+Stormcloak Vanguard : 2
+Suran Pawnbroker : 3
+Crusader's Assault : 3
+Eastmarch Crusader : 3
+Eldergleam Matron : 3
+Haunted Manor : 3
+Hlaalu Oathman : 3
+Hlaalu Sharpshooter : 3
+Lower Canton Smith : 3
+Raiding Party : 3
+Withered Hand Cultist : 3
+Ash Berserker : 3
+Dawnbreaker : 1
+Earthbone Spinner : 2
+Ulfric's Housecarl : 3
+Divine Fervor : 3
+Triumphant Jarl : 3

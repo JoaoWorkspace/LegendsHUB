@@ -1,5 +1,6 @@
 package framework;
 
+import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
@@ -11,27 +12,19 @@ import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 
 import objects.CardType;
+import resources.ColorSet;
 import resources.RescaledImageIcon;
 import resources.WebResources;
 
 public class ControlPanel extends JPanel{
 	
-	private static final Dimension DIMENSION = new Dimension(450,640);
 	
-	private static final JRadioButton toggleLegendary = new JRadioButton("Legendary");
-	private static final JRadioButton toggleEpic = new JRadioButton("Epic");
-	private static final JRadioButton toggleRare = new JRadioButton("Rare");
-	private static final JRadioButton toggleCommon = new JRadioButton("Common");
-	private static final JRadioButton setCore = new JRadioButton("Core");
-	private static final JRadioButton setHeroesOfSkyrim = new JRadioButton("Heroes of Skyrim");
-	private static final JRadioButton setHousesOfMorrowind = new JRadioButton("Houses Of Morrowind");
-	private static final JRadioButton setMonthlyRewards = new JRadioButton("Monthly Rewards");
+	private static final RarityTogglePanel rarityFiltering = RarityTogglePanel.getInstance();
+	private static final SetTogglePanel setFiltering = SetTogglePanel.getFirstInstance();
+	private static final SetTogglePanel setFiltering2 = SetTogglePanel.getSecondInstance();
 	
-	private static final JPanel rarityFiltering = new JPanel();
-	private static final JPanel setFiltering = new JPanel();
-	private static final JPanel setFiltering2 = new JPanel();
-	
-	private static final CardCollectionManagementPanel collectionManagement = CardCollectionManagementPanel.getInstance();
+	private static final CardCollectionManagementPanel collectionManagement1 = CardCollectionManagementPanel.getFirstInstance();
+	private static final CardCollectionManagementPanel collectionManagement2 = CardCollectionManagementPanel.getSecondInstance();
 	
 	public static final CardCollectionProgressPanel FullCollectionProgress = new CardCollectionProgressPanel();
 	public static final CardCollectionProgressPanel LegendaryCollectionProgress = new CardCollectionProgressPanel();
@@ -42,59 +35,40 @@ public class ControlPanel extends JPanel{
 	private static final ControlPanel ControlPanel = new ControlPanel();
 	
 	private ControlPanel() {
-		super(new GridLayout(16,1));
-		setPreferredSize(DIMENSION);
+		super(new GridLayout(17,1));
+		setBackground(ColorSet.ControlPanelElementsBackground);
+		setPreferredSize(Framework.CONTROL_PANEL_DIMENSION);
 		
 		addRarityFiltering();
 		addSetFiltering();
 		addCollectionManagement();
 		addCollectionProgress();
 		addLinks();
+		setFiltersOff();
 	}
 	
 	private void addRarityFiltering() {
-		CustomLabel topic = new CustomLabel(" Filter Rarity");
-		
-		rarityFiltering.add(toggleLegendary);
-		rarityFiltering.add(toggleEpic);
-		rarityFiltering.add(toggleRare);
-		rarityFiltering.add(toggleCommon);
-		
-		toggleLegendary.setSelected(true);
-		toggleEpic.setSelected(true);
-		toggleRare.setSelected(true);
-		toggleCommon.setSelected(true);
-		
+		CustomLabel topic = new CustomLabel(" Filter Rarity",false);
 		add(topic);
 		add(rarityFiltering);
 	}
 
 	private void addSetFiltering() {
-		CustomLabel topic = new CustomLabel(" Filter Set");
-		
-		setFiltering.add(setCore);
-		setFiltering.add(setHeroesOfSkyrim);
-		setFiltering.add(setHousesOfMorrowind);
-		setFiltering2.add(setMonthlyRewards);
-		
-		setCore.setSelected(true);
-		setHeroesOfSkyrim.setSelected(true);
-		setHousesOfMorrowind.setSelected(true);
-		setMonthlyRewards.setSelected(true);
-		
+		CustomLabel topic = new CustomLabel(" Filter Set",false);
 		add(topic);
 		add(setFiltering);
 		add(setFiltering2);
 	}
 
 	private void addCollectionManagement() {
-		CustomLabel topic = new CustomLabel(" Manage your Collection");
+		CustomLabel topic = new CustomLabel(" Manage your Collection",false);
 		add(topic);
-		add(collectionManagement);
+		add(collectionManagement1);
+		add(collectionManagement2);
 	}
 
 	private void addCollectionProgress() {
-		CustomLabel topic = new CustomLabel(" Your Collection Progress");
+		CustomLabel topic = new CustomLabel(" Your Collection Progress",false);
 		LegendaryCollectionProgress.customize(CardType.LEGENDARY);
 		EpicCollectionProgress.customize(CardType.EPIC);
 		RareCollectionProgress.customize(CardType.RARE);
@@ -109,7 +83,7 @@ public class ControlPanel extends JPanel{
 	}
 	
 	private void addLinks() {
-		CustomLabel topic = new CustomLabel(" Links");
+		CustomLabel topic = new CustomLabel(" Links",false);
 		add(topic);
 		add(getLinkTo("utility/icons/github.png", "JoaoWorkspace","https://github.com/JoaoWorkspace"));
 		add(getLinkTo("utility/icons/udt.png", "UniversalDeckTracker/extesy","https://github.com/extesy/DeckTracker"));
@@ -147,44 +121,33 @@ public class ControlPanel extends JPanel{
 			}
 		});
 		JPanel linkpanel = new JPanel((new FlowLayout(FlowLayout.LEFT,10,0)));
+		linkpanel.setBackground(ColorSet.ControlPanelElementsBackground);
 		linkpanel.add(Link);
 		return linkpanel;
 	}
 	
-	public static JRadioButton getToggleCommon() {
-		return toggleCommon;
+	public void setFiltersOn() {
+		rarityFiltering.getToggleCommon().setEnabled(true);
+		rarityFiltering.getToggleRare().setEnabled(true);
+		rarityFiltering.getToggleEpic().setEnabled(true);
+		rarityFiltering.getToggleLegendary().setEnabled(true);
+		setFiltering.getSetCore().setEnabled(true);
+		setFiltering.getSetHeroesOfSkyrim().setEnabled(true);
+		setFiltering.getSetHousesOfMorrowind().setEnabled(true);
+		setFiltering.getSetMonthlyRewards().setEnabled(true);
+		setFiltering.getSetStarterCards().setEnabled(true);
 	}
 	
-	public static JRadioButton getToggleRare() {
-		return toggleRare;
-	}
-	
-	public static JRadioButton getToggleEpic() {
-		return toggleEpic;
-	}
-	
-	public static JRadioButton getToggleLegendary() {
-		return toggleLegendary;
-	}
-	
-	public static JRadioButton getSetMonthlyRewards() {
-		return setMonthlyRewards;
-	}
-	
-	public static JRadioButton getSetCore() {
-		return setCore;
-	}
-	
-	public static JRadioButton getSetHeroesOfSkyrim() {
-		return setHeroesOfSkyrim;
-	}
-	
-	public static JRadioButton getSetHousesOfMorrowind() {
-		return setHousesOfMorrowind;
-	}
-	
-	public static Dimension getDimension() {
-		return DIMENSION;
+	public void setFiltersOff() {
+		rarityFiltering.getToggleCommon().setEnabled(false);
+		rarityFiltering.getToggleRare().setEnabled(false);
+		rarityFiltering.getToggleEpic().setEnabled(false);
+		rarityFiltering.getToggleLegendary().setEnabled(false);
+		setFiltering.getSetCore().setEnabled(false);
+		setFiltering.getSetHeroesOfSkyrim().setEnabled(false);
+		setFiltering.getSetHousesOfMorrowind().setEnabled(false);
+		setFiltering.getSetMonthlyRewards().setEnabled(false);
+		setFiltering.getSetStarterCards().setEnabled(false);
 	}
 	
 	public static ControlPanel getInstance() {

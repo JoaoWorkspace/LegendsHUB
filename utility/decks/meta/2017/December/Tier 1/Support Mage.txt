@@ -1,0 +1,23 @@
+Elixir of Vitality : 3
+Firebolt : 3
+Shrieking Harpy : 3
+Excavate : 3
+Reverberating Strike : 3
+Tower Alchemist : 3
+Hive Defender : 3
+Lightning Bolt : 3
+Ayrenn : 1
+Cauldron Keeper : 3
+College of Winterhold : 1
+Knight of the Hour : 3
+Piercing Javelin : 3
+Ice Storm : 3
+Orb of Vaermina : 1
+The Mechanical Heart : 1
+Goldbrand : 1
+Journey to Sovngarde : 1
+Ancano : 1
+Dawn's Wrath : 2
+Laaneth : 1
+Mantikora : 3
+Miraak, Dragonborn : 1

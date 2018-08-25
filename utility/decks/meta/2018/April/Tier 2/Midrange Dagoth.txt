@@ -1,0 +1,28 @@
+Crown Quartermaster : 3
+Firebolt : 3
+Rapid Shot : 3
+Shadow Shift : 3
+Steel Scimitar : 3
+Awakened Dreamer : 3
+Mournhold Traitor : 3
+Shrieking Harpy : 3
+Wardcrafter : 3
+Brotherhood Slayer : 3
+Cornerclub Gambler : 3
+Daggerfall Mage : 3
+Dagoth Oathman : 3
+Vigilant Ancestor : 3
+Ash Berserker : 3
+Breton Conjurer : 3
+Earthbone Spinner : 3
+Lightning Bolt : 3
+Queen Barenziah : 1
+Sentinel Battlemace : 2
+Brynjolf : 1
+Cliff Racer : 3
+Hand of Dagoth : 3
+Tel Vos Magister : 3
+Belligerent Giant : 3
+Ancano : 1
+Vigilant Giant : 3
+Tazkad the Packmaster : 1

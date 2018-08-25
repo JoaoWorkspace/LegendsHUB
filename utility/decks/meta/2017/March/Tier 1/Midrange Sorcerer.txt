@@ -1,0 +1,20 @@
+Firebolt : 3
+Shrieking Harpy : 3
+Skilled Blacksmith : 3
+Wardcrafter : 3
+Wind Keep Spellsword : 3
+Cunning Ally : 3
+Daggerfall Mage : 3
+Haunting Spirit : 3
+Mace of Encumbrance : 2
+Young Mammoth : 3
+Lightning Bolt : 3
+Midnight Sweep : 3
+Preserver of the Root : 2
+Royal Sage : 3
+Mentor's Ring : 1
+Shadowfen Priest : 3
+Shornhelm Champion : 2
+Black Worm Necromancer : 2
+High King Emeric : 1
+Nahagliiv : 1

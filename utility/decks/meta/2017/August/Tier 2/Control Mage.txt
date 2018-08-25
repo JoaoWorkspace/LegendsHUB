@@ -1,0 +1,20 @@
+Execute : 3
+Firebolt : 3
+Bruma Profiteer : 3
+Shrieking Harpy : 3
+Wardcrafter : 3
+Crushing Blow : 3
+Daggerfall Mage : 3
+Cloudrest Illusionist : 3
+Hive Defender : 3
+Lightning Bolt : 3
+Ayrenn : 1
+College of Winterhold : 1
+Knight of the Hour : 3
+Piercing Javelin : 3
+Ice Storm : 3
+Arrest : 2
+Dawn's Wrath : 2
+Mantikora : 3
+Miraak, Dragonborn : 1
+Odahviing : 1

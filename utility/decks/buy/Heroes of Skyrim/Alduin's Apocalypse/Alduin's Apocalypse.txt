@@ -1,0 +1,23 @@
+Alduin : 1
+Dragon Cult Ghost : 1
+Edict of Azura : 1
+Mantikora : 1
+Preserver of the Root : 1
+Karthspire Scourge : 3
+Spine of Eldersblood : 3
+Devour : 2
+Hive Defender : 2
+Imperial Camp : 2
+Midnight Sweep : 2
+Encumbered Explorer : 1
+Ancient Lookout : 3
+Cliffside Lookout : 3
+Ironscale Dragon : 3
+Mentor of the Watch : 3
+Midnight Snack : 3
+Piercing Javelin : 3
+Revered Guardian : 3
+Snowhawk Detachment : 3
+Tree Minder : 3
+Dragonplate Armor : 2
+Dragontail Savior : 1

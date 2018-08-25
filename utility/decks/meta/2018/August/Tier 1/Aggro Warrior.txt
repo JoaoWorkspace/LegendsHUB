@@ -1,0 +1,21 @@
+Iliac Sorcerer : 2
+Steel Scimitar : 3
+Ald Velothi Assassin : 1
+Circle Initiate : 1
+Dragontail Savior : 3
+Orc Clan Captain : 3
+Siege Catapult : 3
+Stormcloak Vanguard : 3
+Wind Keep Spellsword : 3
+Haunting Spirit : 3
+Morkul Gatekeeper : 3
+Withered Hand Cultist : 3
+Young Mammoth : 3
+Ash Berserker : 3
+Bleakcoast Troll : 3
+Earthbone Spinner : 2
+Reive, Blademaster : 1
+Shadowfen Priest : 2
+Sower of Revenge : 3
+Wood Orc Headhunter : 1
+Triumphant Jarl : 1

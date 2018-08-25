@@ -1,0 +1,32 @@
+Execute : 3
+Firebolt : 3
+A Night to Remember : 2
+Barrow Stalker : 3
+Shrieking Harpy : 3
+Sorcerer's Negation : 3
+Daggerfall Mage : 2
+Galyn the Shelterer : 1
+Indoril Mastermind : 3
+Reverberating Strike : 3
+Silent Pilgrim : 3
+Soul Tear : 1
+Tree Minder : 3
+Archcanon Saryoni : 1
+Edict of Azura : 3
+Hive Defender : 3
+Lightning Bolt : 3
+Merchant's Camel : 3
+Tribunal Oathman : 2
+Ayrenn : 1
+Cast Into Time : 3
+Doppelganger : 3
+Piercing Javelin : 3
+Genius Pathmage : 3
+Ice Storm : 3
+Odirniran Necromancer : 3
+Ulfric's Uprising : 3
+Ancano : 1
+Dawn's Wrath : 1
+Laaneth : 1
+Miraak, Dragonborn : 1
+Odahviing : 1

@@ -1,0 +1,20 @@
+Curse : 3
+Crown Quartermaster : 3
+Daring Cutpurse : 3
+Goblin Skulk : 3
+Shrieking Harpy : 3
+Wardcrafter : 3
+Brotherhood Slayer : 3
+Daggerfall Mage : 3
+Eldergleam Matron : 3
+Lightning Bolt : 3
+Murkwater Shaman : 3
+Mystic Dragon : 3
+Queen Barenziah : 1
+Brynjolf : 1
+Cliff Racer : 3
+Leaflurker : 3
+Shearpoint Dragon : 3
+Ancano : 1
+Tazkad the Packmaster : 1
+Supreme Atromancer : 2

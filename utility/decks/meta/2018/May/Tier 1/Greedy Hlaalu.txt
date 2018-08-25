@@ -1,0 +1,28 @@
+Nord Firebrand : 3
+Marked Man : 3
+Shadow Shift : 3
+Balmora Puppeteer : 3
+Fifth Legion Trainer : 3
+Goblin Skulk : 3
+Mournhold Traitor : 3
+Orc Clan Captain : 3
+Stormcloak Vanguard : 3
+Suran Pawnbroker : 3
+Cornerclub Gambler : 3
+Crusader's Assault : 3
+Eastmarch Crusader : 3
+Haunted Manor : 3
+Hlaalu Oathman : 3
+Pit Lion : 3
+Raiding Party : 3
+Withered Hand Cultist : 3
+Ash Berserker : 3
+Candlehearth Brawler : 3
+Dawnbreaker : 1
+Garnag, Dark Adherent : 1
+The Black Dragon : 1
+Ahnassi : 1
+Cliff Racer : 3
+Divine Fervor : 3
+Markarth Bannerman : 2
+Snowy Sabre Cat : 3

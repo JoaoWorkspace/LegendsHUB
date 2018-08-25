@@ -1,0 +1,58 @@
+Aldora the Daring : 1
+Assembled Titan : 1
+Galyn the Shelterer : 1
+Laaneth : 1
+Mecinar : 1
+Sails-Through-Storms : 1
+The Mechanical Heart : 1
+Brass Arquebus : 3
+Clockwork Dragon : 3
+Cog Collector : 3
+Dwarven Colossus : 3
+Hallowed Deathpriest : 3
+Hunter-Killers : 3
+Memory Wraith : 3
+Reconstruction Engine : 3
+Star-Sung Bard : 3
+Abandoned Imperfect : 3
+Awakened Imperfect : 3
+Back-Alley Rogue : 3
+Barrow Stalker : 3
+Brassilisk : 3
+Daring Heist : 3
+Dragon Aspect : 3
+Excavate : 3
+Fabricate : 3
+Mecinar's Will : 3
+Phalanx Exemplar : 3
+Ratway Prospector : 3
+Skeevaton : 3
+Throne Aligned : 3
+Treasure Map : 3
+Trial of Flame : 3
+Arcaneum Librarian : 3
+Assembled Conduit : 3
+Assembled Sanitizer : 3
+Assembled Sentry : 3
+Clockwork Apostle : 3
+Clockwork Scorpion : 3
+Dormant Centurion : 3
+Firepot Spider : 3
+Gearwork Spider : 3
+Grappling Hook : 3
+Hulking Fabricant : 3
+Kagouti Fabricant : 3
+Mistveil Warden : 3
+Murkwater Guide : 3
+Nix-Hound Fabricant : 3
+Reflective Automaton : 3
+Relic Hunter : 3
+Reverberating Strike : 3
+Riften Lawkeeper : 3
+Ruin Archaeologist : 3
+Ruthless Freebooter : 3
+Scroll Seeker : 3
+Shalk Fabricant : 3
+Thornwell Terror : 3
+Verminous Fabricant : 3
+Weakness : 3

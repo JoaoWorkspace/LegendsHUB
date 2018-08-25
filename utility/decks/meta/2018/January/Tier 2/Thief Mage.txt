@@ -1,0 +1,23 @@
+Firebolt : 3
+Shrieking Harpy : 3
+Daggerfall Mage : 3
+Dark Rebirth : 3
+Reverberating Strike : 3
+Thieves Guild Shadowfoot : 3
+Hive Defender : 3
+Lightning Bolt : 3
+Riften Pickpocket : 3
+Vicious Dreugh : 1
+Ayrenn : 1
+Knight of the Hour : 3
+Piercing Javelin : 3
+Ice Storm : 3
+Orb of Vaermina : 1
+Arrest : 2
+Journey to Sovngarde : 1
+Ancano : 1
+Dawn's Wrath : 2
+Mecinar : 1
+Laaneth : 1
+Mantikora : 2
+Miraak, Dragonborn : 1

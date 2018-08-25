@@ -1,0 +1,20 @@
+Execute : 2
+Fharun Defender : 3
+Priest of the Moons : 2
+Wind Keep Spellsword : 3
+Crushing Blow : 3
+Tree Minder : 3
+Edict of Azura : 3
+Hist Grove : 3
+Hive Defender : 3
+Midnight Sweep : 3
+Preserver of the Root : 3
+Piercing Javelin : 3
+Pillaging Tribune : 3
+Shadowfen Priest : 3
+Immolating Blast : 1
+Nahagliiv : 1
+Blood Magic Lord : 3
+Mantikora : 3
+Miraak, Dragonborn : 1
+Odahviing : 1

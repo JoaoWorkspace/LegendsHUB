@@ -1,0 +1,25 @@
+Brynjolf : 1
+Shimmerene Peddler : 1
+Moonlight Werebat : 1
+Torval Crook : 1
+Thief of Dreams : 1
+Cruel Firebloom : 1
+Move in Shadows : 1
+Goblin Skulk : 3
+Lockpick : 2
+Assassin's Ritual : 2
+Dune Smuggler : 2
+Elusive Schemer : 2
+Riften Pickpocket : 2
+Paralyze : 1
+Firebolt : 3
+Palace Prowler : 3
+Shadow Shift : 3
+Caravan Enforcer : 3
+Gloomlurker : 3
+Thieves Guild Recruit : 3
+Giant Bat : 2
+Lightning Bolt : 3
+Sightless Skulk : 2
+Lillandril Hexmage : 3
+Chaurus Reaper : 1

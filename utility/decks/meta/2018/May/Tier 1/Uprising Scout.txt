@@ -1,0 +1,21 @@
+Drain Vitality : 3
+Scout's Report : 3
+Word Wall : 3
+A Night to Remember : 2
+Fighters Guild Recruit : 3
+Thieves Guild Recruit : 3
+Crushing Blow : 2
+Galyn the Shelterer : 1
+Giant Bat : 3
+Indoril Mastermind : 3
+Sanctuary Pet : 2
+Soul Tear : 3
+Tree Minder : 2
+Merchant's Camel : 3
+Territorial Viper : 2
+Shadowfen Priest : 1
+Thorn Histmage : 3
+Odirniran Necromancer : 3
+Ulfric's Uprising : 3
+Red Bramman : 1
+Paarthurnax : 1

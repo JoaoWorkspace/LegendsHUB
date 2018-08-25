@@ -1,0 +1,19 @@
+Execute : 3
+Firebolt : 3
+Shrieking Harpy : 3
+Wardcrafter : 3
+Daggerfall Mage : 3
+Telvanni Arcanist : 3
+Cloudrest Illusionist : 3
+Elusive Schemer : 3
+Hive Defender : 3
+Lightning Bolt : 3
+Ayrenn : 1
+Piercing Javelin : 3
+Pillaging Tribune : 3
+Ice Storm : 3
+Dawn's Wrath : 2
+Mantikora : 3
+Supreme Atromancer : 3
+Miraak, Dragonborn : 1
+Odahviing : 1

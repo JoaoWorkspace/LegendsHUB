@@ -1,0 +1,42 @@
+Duke Vedam Dren : 1
+Cornerclub Gambler : 1
+Haunted Manor : 1
+Hlaalu Sharpshooter : 1
+Cliff Strider : 1
+Torval Crook : 1
+Kwama Queen : 1
+Curse : 1
+Improvised Weapon : 1
+Orvas' Bargain : 2
+Septim Guardsman : 1
+Moon Sugar Smuggler : 2
+Balmora Puppeteer : 2
+Crassius' Favor : 2
+Dwemer Puzzle Box : 1
+Goblin Skulk : 2
+Suran Pawnbroker : 2
+Dune Smuggler : 1
+Raiding Party : 1
+Silent Pilgrim : 1
+Skooma Racketeer : 1
+Hive Defender : 1
+Camonna Tong Heavy : 2
+Soulrest Marshal : 1
+Bushwhack : 1
+Dres Spy : 1
+Glass Greaves : 3
+Shadow Shift : 3
+Fighters Guild Recruit : 2
+Finish Off : 2
+Ornery Kagouti : 3
+Stand Watch : 2
+Thieves Guild Recruit : 3
+Hlaalu Oathman : 3
+Lower Canton Smith : 3
+Morkul Gatekeeper : 1
+Twin Lamps Consul : 3
+Moonmoth Castellan : 3
+Writ of Execution : 3
+Dren Bodyguard : 3
+Piercing Javelin : 2
+Nix-Ox : 3

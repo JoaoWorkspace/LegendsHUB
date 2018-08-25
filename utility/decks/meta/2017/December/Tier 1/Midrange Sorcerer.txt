@@ -1,0 +1,20 @@
+Scroll Seeker : 3
+Shrieking Harpy : 3
+Sorcerer's Negation : 3
+Throne Aligned : 3
+Wardcrafter : 3
+Wind Keep Spellsword : 3
+Daggerfall Mage : 3
+Haunting Spirit : 3
+Young Mammoth : 3
+Dres Renegade : 3
+Lightning Bolt : 3
+Mystic Dragon : 3
+Hallowed Deathpriest : 3
+Memory Wraith : 1
+Shadowfen Priest : 2
+High King Emeric : 1
+Wrath of Sithis : 2
+Bone of Colossus : 3
+Nahagliiv : 1
+Ancano : 1

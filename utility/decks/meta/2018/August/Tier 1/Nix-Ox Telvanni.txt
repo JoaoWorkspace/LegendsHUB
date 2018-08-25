@@ -1,0 +1,30 @@
+Firebolt : 3
+Scout's Report : 3
+A Night to Remember : 1
+Fighters Guild Recruit : 3
+Shrieking Harpy : 3
+Sorcerer's Negation : 3
+Thieves Guild Recruit : 3
+Black Hand Messenger : 3
+Dark Rebirth : 3
+Indoril Mastermind : 3
+Reverberating Strike : 1
+Sanctuary Pet : 3
+Soul Tear : 1
+Tree Minder : 3
+Blackwood Distiller : 3
+Lightning Bolt : 2
+Merchant's Camel : 3
+Territorial Viper : 3
+Doppelganger : 3
+Mentor's Ring : 1
+Therana : 1
+Thorn Histmage : 3
+Genius Pathmage : 3
+Ice Storm : 3
+Odirniran Necromancer : 3
+Nix-Ox : 3
+Ulfric's Uprising : 3
+Ancano : 1
+Divayth's Experiments : 2
+Laaneth : 1

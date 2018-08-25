@@ -1,0 +1,43 @@
+Bolvyn Venim : 1
+Iliac Sorcerer : 1
+Rift Thane : 1
+Knight of Gnisis : 1
+Inspiring Kinsman : 1
+Fetcherfly Golem : 1
+Pillaging Tribune : 1
+Ald Velothi Assassin : 2
+Fifth Legion Trainer : 2
+Fighters Guild Hall : 1
+Redoran Forerunner : 1
+Cast Out : 1
+Feasting Hunger : 1
+Frostbite Spider : 1
+Haunting Spirit : 1
+Khuul Lawkeeper : 2
+Morthal Executioner : 1
+Mummify : 1
+Raiding Party : 2
+Ald'ruhn Arms Master : 2
+Hive Defender : 1
+Midnight Sweep : 1
+Orcish Warhammer : 1
+Rampaging Minotaur : 1
+Black Worm Necromancer : 1
+Triumphant Jarl : 2
+Ashlander Zealot : 3
+Sarethi Scion : 3
+Ambitious Hireling : 3
+Enchanted Plate : 3
+Gavel of the Ordinator : 2
+Quarra Clan Bloodkin : 3
+Warclaw Mercenary : 3
+Wind Keep Spellsword : 2
+Battlerage Orc : 2
+Daedric Crescent : 2
+Redoran Battlespear : 3
+Redoran Oathman : 3
+Bal Isra Warrider : 3
+Dren Bodyguard : 3
+Lurking Mummy : 1
+Cliff Hunter : 3
+Bloodline Outcast : 1

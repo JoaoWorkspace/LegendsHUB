@@ -1,0 +1,22 @@
+Close Call : 3
+Execute : 2
+Firebolt : 3
+Shrieking Harpy : 3
+Camlorn Sentinel : 2
+Daggerfall Mage : 3
+Desperate Conjuring : 1
+Cloudrest Illusionist : 3
+Fire Storm : 1
+Hive Defender : 3
+Lightning Bolt : 3
+Vicious Dreugh : 1
+Ayrenn : 1
+Loyal Housecarl : 2
+Piercing Javelin : 3
+Pillaging Tribune : 3
+Fate Weaver : 3
+Ice Storm : 3
+Mantikora : 3
+Supreme Atromancer : 2
+Miraak, Dragonborn : 1
+Odahviing : 1

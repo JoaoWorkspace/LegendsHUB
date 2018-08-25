@@ -1,0 +1,20 @@
+Lesser Ward : 2
+Crown Quartermaster : 2
+Firebolt : 3
+Rapid Shot : 3
+Shrieking Harpy : 3
+Wardcrafter : 3
+Cunning Ally : 3
+Daggerfall Mage : 3
+Skaven Pyromancer : 1
+Vigilant Ancestor : 3
+Ash Berserker : 3
+Breton Conjurer : 3
+Earthbone Spinner : 3
+Lightning Bolt : 3
+Sentinel Battlemace : 3
+Cradlecrush Giant : 2
+Tel Vos Magister : 3
+Belligerent Giant : 1
+Ancano : 1
+Vigilant Giant : 2

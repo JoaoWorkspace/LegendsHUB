@@ -1,0 +1,20 @@
+Drain Vitality : 3
+Scout's Report : 3
+Word Wall : 3
+A Night to Remember : 3
+Murkwater Witch : 3
+Thieves Guild Recruit : 3
+Crushing Blow : 3
+Giant Bat : 3
+Soul Tear : 3
+Tree Minder : 3
+Greybeard Mentor : 3
+Hist Grove : 3
+Giant Snake : 3
+Thorn Histmage : 3
+Eclipse Baroness : 3
+Blood Magic Lord : 1
+Red Bramman : 1
+Tazkad the Packmaster : 1
+Odahviing : 1
+Paarthurnax : 1

@@ -1,0 +1,19 @@
+Steel Scimitar : 3
+Barrow Stalker : 2
+Circle Initiate : 3
+Dragontail Savior : 3
+Orc Clan Captain : 3
+Wind Keep Spellsword : 3
+Haunting Spirit : 3
+Morkul Gatekeeper : 3
+Withered Hand Cultist : 3
+Young Mammoth : 3
+Bleakcoast Troll : 3
+Candlehearth Brawler : 3
+Earthbone Spinner : 3
+Garnag, Dark Adherent : 1
+Reive, Blademaster : 1
+Sower of Revenge : 3
+Underworld Vigilante : 2
+Wood Orc Headhunter : 3
+Triumphant Jarl : 2

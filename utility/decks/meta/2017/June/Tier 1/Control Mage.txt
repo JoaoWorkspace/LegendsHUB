@@ -1,0 +1,21 @@
+Execute : 3
+Firebolt : 3
+Healing Potion : 1
+Shimmerene Peddler : 3
+Shrieking Harpy : 3
+Brilliant Experiment : 2
+Crushing Blow : 2
+Cunning Ally : 3
+Daggerfall Mage : 3
+Elusive Schemer : 3
+Hive Defender : 3
+Lightning Bolt : 3
+Ayrenn : 1
+Piercing Javelin : 3
+Pillaging Tribune : 3
+Ice Storm : 3
+Dawn's Wrath : 2
+Nahkriin, Dragon Priest : 1
+Mantikora : 3
+Miraak, Dragonborn : 1
+Odahviing : 1

@@ -1,0 +1,26 @@
+Nord Firebrand : 3
+Septim Guardsman : 2
+Marked Man : 3
+Steel Scimitar : 3
+Balmora Puppeteer : 3
+Bruma Profiteer : 3
+Fifth Legion Trainer : 3
+Goblin Skulk : 3
+Orc Clan Captain : 3
+Rift Thane : 3
+Stormcloak Vanguard : 3
+Suran Pawnbroker : 3
+Thieves Guild Recruit : 3
+Crusader's Assault : 3
+Eastmarch Crusader : 3
+Eldergleam Matron : 3
+Giant Bat : 3
+Haunted Manor : 3
+Hlaalu Oathman : 3
+Hlaalu Sharpshooter : 3
+Lower Canton Smith : 3
+Raiding Party : 3
+Ash Berserker : 2
+Divine Fervor : 2
+Triumphant Jarl : 3
+Tullius' Conscription : 3
