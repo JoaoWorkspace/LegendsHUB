@@ -17,7 +17,7 @@ public class Requester{
 	public void issueCommand(String command) {
 		try {
 			outputstream.writeObject(command);
-			Alerts.thisProcessMightTakeSeveralSeconds();
+			if(command.equals("UPDATE")) Alerts.thisProcessMightTakeSeveralSeconds();
 		} catch (IOException e) {
 			Alerts.serverWentOffline();
 		}
