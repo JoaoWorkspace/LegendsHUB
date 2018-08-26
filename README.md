@@ -1,41 +1,41 @@
-# TESLCraftRoulette
-![image](https://user-images.githubusercontent.com/37052744/41302549-ac25a456-6e62-11e8-9d1e-15c7dbac3fe3.png)
+# LegendsHUB
 
-# [Download Latest Release](https://github.com/JoaoWorkspace/TESLCraftRoulette/releases/tag/BETA)
+# [Download Latest Release](https://github.com/JoaoWorkspace/TESLCraftRoulette/releases/tag/v1.0)
 
-## Dare Yourself on Stream
-* ### All the cards that you don't own have a chance to pop up, either a tier 5 High King Emeric or a tier 1 Lich's Ascension.
-* ### Once you start you can't chicken out, your followers are watching.
+## CraftRoulette
+![image](https://user-images.githubusercontent.com/37052744/44629425-239c0600-a947-11e8-940d-b1c1f7deae92.png)
+* ### This is a tool for those aiming for Full Collection! In Normal mode it has randomness which means there's a chance a bad thing could be suggested(but almost null), in Chaos mode literally anything will be shown, so it's as useless as can be, Helpful mode will only suggest the optimal crafts. If you follow the Helpful mode suggestions you will be making the wisest choices if you aim for Full Collection down the road.
+* ### Crafting Formula: Rarity x Number of Copies you Miss x Card Rating
+* ### Card rating is based on META presence of that card.
 
+## MetaDecks
+![image](https://user-images.githubusercontent.com/37052744/44629481-01ef4e80-a948-11e8-962b-153e999752e2.png)
+![image](https://user-images.githubusercontent.com/37052744/44629490-1cc1c300-a948-11e8-8ec7-3bcb5706c464.png)
+![image](https://user-images.githubusercontent.com/37052744/44629494-20ede080-a948-11e8-89db-8dfc70c116be.png)
+![image](https://user-images.githubusercontent.com/37052744/44629495-22b7a400-a948-11e8-958e-6df090aefbf3.png)
+* ### Here you have a complete List of all the Meta Decks from every season since January 2017. If you can craft one deck, it'll be showing with a glow color so you can distinguish it from the rest.
+* ### This feature it to help those who want to play competitively, for full collection efficiency go to CraftRoulette
 
-## Help Guide
-* ### This tool serves as a guide for you, since although all cards have a chance, they don't have the same chance. The odds of getting High King Emeric are 5x bigger than Lich's Ascension
-* ### There are far more average and good cards than there are bad cards, which means the chances of being suggested to craft a bad card is insanely small, unlikely to happen.
-* ### Although you'll get a good suggestion most of the times, that's not always the case so I recommend clicking on a card to find out their Rating(1-5) and how many copies you miss, you might want to spin the wheel again.
+## Collection Management
+![upload](https://user-images.githubusercontent.com/37052744/44629538-c5702280-a948-11e8-8e81-2eebfccca46d.png)
+### Upload with resource to UniversalDeckTracker by Extesy
 
+![import](https://user-images.githubusercontent.com/37052744/44629545-ec2e5900-a948-11e8-9718-0840ead3a8ae.png)
+### Import an already saved collection from the My Collections Folder
 
-## Full Collection Priority
-* ### Legendary Odds = 9x Epic Odds = 9x Rare Odds = 9x Common Odds
-* ### Tier 5 Odds = 5x Tier 1 Odds.
-* ### Tier 4 Odds = 4x Tier 1 Odds. 
-* ### Tier 3 Odds = 3x Tier 1 Odds. 
-* ### Tier 2 Odds = 2x Tier 1 Odds.
+![edit](https://user-images.githubusercontent.com/37052744/44629552-05370a00-a949-11e8-8733-76c5fc408a73.png)
+### Edit your collection manually, search engine for card names included
 
+![save](https://user-images.githubusercontent.com/37052744/44629561-1c75f780-a949-11e8-8feb-afdf5662bcdf.png)
+### Save your current collection as a file
 
-## Crafting Weight Formula
-* ### Rarity x Rating(or Tier) x Missing Copies
-* ### Legendary Rarity = 6561
-* ### Epic Rarity = 729
-* ### Rare Rarity = 81
-* ### Common Rarity = 9
+![screenshot_10](https://user-images.githubusercontent.com/37052744/44629566-2bf54080-a949-11e8-96e8-325aace85610.png)
+![screenshot_11](https://user-images.githubusercontent.com/37052744/44629568-3283b800-a949-11e8-9ec8-fcad71683690.png)
+### Manage the Premade Decks you own in-game
 
+![screenshot_12](https://user-images.githubusercontent.com/37052744/44629578-66f77400-a949-11e8-98f9-c0a835694e9d.png)
+![screenshot_13](https://user-images.githubusercontent.com/37052744/44629583-6b239180-a949-11e8-9432-5f56d617861c.png)
+### Manage the Expansions you own in-game
 
-### This tool is meant for players like me whose goal is to have the full collection as fast as possible so for that to happen, Legendaries even if they're bad (Lich's Ascension) will be always be preferred over an Epic, Rare or Common, since those have higher chance of getting caught in packs. This means it's better to craft a Lich's Ascension than a tier 5 epic, for example. Value over Quality.
-
-# FUTURE
-## 3-Modes Option: [Vote Here](https://strawpoll.com/3xycg3dy)
-### Option to choose between Normal, Chaos(All cards get equal odds) and Helpful(Only the best possible card(s) get recommended).
-![image](https://user-images.githubusercontent.com/37052744/41306456-22b383da-6e6e-11e8-979c-804ed9910494.png)
-## Edit Collection - Show Card on-click: [Vote Here](https://strawpoll.com/d3ezeg9r)
-### When you click on the card name in the Edit Table (below) it will open the card image.
-![image](https://user-images.githubusercontent.com/37052744/41306167-1fa3bb48-6e6d-11e8-8dd9-7e332a3dfab8.png)
+![screenshot_14](https://user-images.githubusercontent.com/37052744/44629585-7971ad80-a949-11e8-8a3e-cf1f64820438.png)
+### Download the latest updates(Cards/Expansions/Premade Decks/Meta) from the Server (That I keep online)
