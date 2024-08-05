@@ -1,14 +1,8 @@
 package framework;
 
-import java.io.File;
-
-import javax.swing.JFileChooser;
-import javax.swing.LookAndFeel;
-import javax.swing.UIManager;
-import javax.swing.UnsupportedLookAndFeelException;
-import javax.swing.filechooser.FileFilter;
+import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
-import javafx.stage.FileChooser;
+import java.io.File;
 
 public class CustomFileChooser extends JFileChooser{
 	

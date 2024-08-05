@@ -1,27 +1,11 @@
 package framework;
 
-import java.awt.BorderLayout;
-import java.awt.Dimension;
-import java.awt.MenuBar;
-import java.awt.event.WindowAdapter;
-import java.awt.event.WindowEvent;
-import java.io.IOException;
-import java.net.URL;
-
-import javax.swing.ImageIcon;
-import javax.swing.JFrame;
-import javax.swing.JPanel;
-import javax.swing.JScrollPane;
-import javax.swing.JSplitPane;
-import javax.swing.UIManager;
-import javax.swing.UnsupportedLookAndFeelException;
-
-import client.Client;
-import resources.Splitscreen;
 import hub.Hub;
-import javafx.scene.image.Image;
 import objects.Card;
-import server.CraftRouletteServer;
+import resources.Splitscreen;
+
+import javax.swing.*;
+import java.awt.*;
 
 public class Framework extends JFrame{
 	/*Preferred Sizes of the Components*/
@@ -43,7 +27,7 @@ public class Framework extends JFrame{
 	
 	/**
 	 * Creates a new Framework for this project. This framework comes equipped with all the Java Swing components necessary for the CraftRoulette to work.
-	 * @author João Mendonça
+	 * @author Joï¿½o Mendonï¿½a
 	 *
 	 */
 	private Framework() {

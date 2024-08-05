@@ -1,44 +1,30 @@
 package client;
 
-import java.net.*;
-import java.nio.file.Files;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-
-import javax.swing.JDialog;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JProgressBar;
-import javax.swing.SwingConstants;
-import javax.swing.UIManager;
-import javax.swing.UnsupportedLookAndFeelException;
-
-import framework.CollectionManager;
 import framework.CustomLabel;
 import framework.Framework;
 import framework.Menu;
 import hub.Hub;
-import objects.Card;
 import resources.Alerts;
 import resources.FileLister;
-import resources.ReadTXT;
 import resources.UseTheLookAndFeelYouWant;
-import server.ServerFramework;
 
-import java.awt.BorderLayout;
-import java.awt.GridLayout;
-import java.awt.Label;
-import java.io.*;
+import javax.swing.*;
+import java.awt.*;
+import java.io.File;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.net.Socket;
+import java.util.HashMap;
 
 /**
  * 
- * @author João Mendonça
+ * @author Joï¿½o Mendonï¿½a
  *
  */
 public class Client extends Thread{
 	/*SERVER CONNECTION*/
-	private static final String ServerIP = "95.92.106.84";
+	private static final String ServerIP = "0.0.0.0";
 	private static final int ServerPORT = 2000;
 	/*TCP/IP CONNECTION*/
 	private static Socket socket;

@@ -1,24 +1,13 @@
 package objects;
 
-import java.awt.Graphics;
-import java.awt.Graphics2D;
-import java.awt.image.BufferedImage;
-import java.io.File;
-import java.io.IOException;
-import java.math.BigInteger;
-import java.time.Month;
-import java.util.ArrayList;
-import java.util.LinkedHashMap;
-
-import javax.imageio.ImageIO;
-import javax.swing.Icon;
-import javax.swing.ImageIcon;
-import javax.swing.JButton;
-import javax.swing.JLabel;
-
 import framework.MetaDecksPanel;
 import hub.Hub;
 import resources.Alerts;
+
+import javax.swing.*;
+import java.math.BigInteger;
+import java.util.ArrayList;
+import java.util.LinkedHashMap;
 
 public class Card {
 	private String name;
@@ -125,11 +114,15 @@ public class Card {
 			/*Check if the card is part of old meta*/
 			else {
 				if(MetaDecksPanel.getMetaDecks().get(pathToDeck).getCARDS().containsKey(name)) {
-					/*Check if the card was part of the last 3 seasons' meta*/
-					if(pathToDeck.contains(Last3Seasons.get(currentSeasonPosition-1))
-						||pathToDeck.contains(Last3Seasons.get(currentSeasonPosition-2))
-						||pathToDeck.contains(Last3Seasons.get(currentSeasonPosition-3)))hasPresenceInLastThreeSeasons=true;
 					hasPreviousMetaPresence=true;
+					/*Check if the card was part of the last 3 seasons' meta*/
+					if(currentSeasonPosition != 0 && hasPreviousMetaPresence){
+						if(currentSeasonPosition >= 3 && pathToDeck.contains(Last3Seasons.get(currentSeasonPosition-1))
+								||pathToDeck.contains(Last3Seasons.get(currentSeasonPosition-2))
+								||pathToDeck.contains(Last3Seasons.get(currentSeasonPosition-3))){
+							hasPresenceInLastThreeSeasons=true;
+						}
+					}
 				}
 			}
 		}

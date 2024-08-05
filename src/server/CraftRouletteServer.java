@@ -23,7 +23,6 @@ public class CraftRouletteServer {
 		} catch (IOException e) {
 			 SERVERFRAMEWORK.dispose();
 			Alerts.serverAlreadyRunning();
-		
 		}
 	}
 

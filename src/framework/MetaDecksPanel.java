@@ -1,39 +1,21 @@
 package framework;
 
-import java.awt.BorderLayout;
-import java.awt.Color;
-import java.awt.Dimension;
-import java.awt.FlowLayout;
-import java.awt.GridBagConstraints;
-import java.awt.GridBagLayout;
-import java.awt.GridLayout;
+import hub.Hub;
+import objects.CardType;
+import objects.Deck;
+import resources.Alerts;
+import resources.ReadTXT;
+import resources.RescaledImageIcon;
+
+import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.LinkedHashMap;
-import java.util.List;
-
-import javax.swing.ImageIcon;
-import javax.swing.JDialog;
-import javax.swing.JLabel;
-import javax.swing.JList;
-import javax.swing.JOptionPane;
-import javax.swing.JPanel;
-import javax.swing.JProgressBar;
-import javax.swing.JScrollPane;
-import javax.swing.SwingConstants;
-
-import hub.Hub;
-import objects.CardType;
-import objects.Deck;
-import resources.Alerts;
-import resources.ColorSet;
-import resources.ReadTXT;
-import resources.RescaledImageIcon;
 
 public class MetaDecksPanel extends CustomPanel{
 	/*FOLDERS*/
@@ -65,9 +47,25 @@ public class MetaDecksPanel extends CustomPanel{
 			for(String SEASON : SEASONS.keySet()) {
 				if(SEASON.contains(YEAR)) {
 					SEASON = SEASON.split(" ")[1];
-					createDeckList(YEAR,SEASON);
-					for(File deck : TIERS_DECKS.get(YEAR+" "+SEASON+" Tier 1")) createDeck("utility/decks/meta/"+YEAR+"/"+SEASON+"/Tier 1/"+deck.getName());
-					for(File deck : TIERS_DECKS.get(YEAR+" "+SEASON+" Tier 2")) createDeck("utility/decks/meta/"+YEAR+"/"+SEASON+"/Tier 2/"+deck.getName());
+					createDeckList(YEAR, SEASON);
+					File[] tier1Decks = TIERS_DECKS.get(YEAR + " " + SEASON + " Tier 1");
+					if (tier1Decks != null) {
+						for (File deck : tier1Decks){
+							createDeck("utility/decks/meta/" + YEAR + "/" + SEASON + "/Tier 1/" + deck.getName());
+						}
+					}
+					else {
+						System.out.println("No decks found for key: " + YEAR + " " + SEASON + " Tier 1");
+					}
+					File[] tier2Decks = TIERS_DECKS.get(YEAR + " " + SEASON + " Tier 2");
+					if (tier2Decks != null) {
+						for (File deck : tier2Decks){
+							createDeck("utility/decks/meta/" + YEAR + "/" + SEASON + "/Tier 2/" + deck.getName());
+						}
+					}
+					else {
+						System.out.println("No decks found for key: " + YEAR + " " + SEASON + " Tier 2");
+					}
 				}
 			}
 		}
@@ -104,22 +102,24 @@ public class MetaDecksPanel extends CustomPanel{
 		/*READ FOLDER*/
 		File season = new File("utility/decks/meta/"+Year+"/"+Season+"/");
 		File[] tiers = season.listFiles();
-		for(File tier : tiers) {
-			TIERS_DECKS.put(Year+" "+Season+" "+tier.getName(), tier.listFiles());  //Adds all the decks for each tier
-		}
-		/*TIER DECKLIST*/
-		String tier1 = Year+" "+Season+" Tier 1";
-		String tier2 = Year+" "+Season+" Tier 2";
-		if(TIERS_DECKS.containsKey(tier1)){
-			for(int i=0;i<TIERS_DECKS.get(tier1).length;i++) {
-				JPanel newPanel = createJPanel(2, Year, Season,"Tier 1", TIERS_DECKS.get(tier1)[i].getName());
-				DECKS.put(Year+" "+Season+" Tier 1 "+TIERS_DECKS.get(tier1)[i].getName(),newPanel);
+		if(tiers != null){
+			for(File tier : tiers) {
+				TIERS_DECKS.put(Year+" "+Season+" "+tier.getName(), tier.listFiles());  //Adds all the decks for each tier
 			}
-		}
-		if(TIERS_DECKS.containsKey(tier2)) {
-			for(int i=0;i<TIERS_DECKS.get(tier2).length;i++) {
-				JPanel newPanel = createJPanel(2, Year, Season,"Tier 2", TIERS_DECKS.get(tier2)[i].getName());
-				DECKS.put(Year+" "+Season+" Tier 2 "+TIERS_DECKS.get(tier2)[i].getName(),newPanel);
+			/*TIER DECKLIST*/
+			String tier1 = Year+" "+Season+" Tier 1";
+			String tier2 = Year+" "+Season+" Tier 2";
+			if(TIERS_DECKS.containsKey(tier1)){
+				for(int i=0;i<TIERS_DECKS.get(tier1).length;i++) {
+					JPanel newPanel = createJPanel(2, Year, Season,"Tier 1", TIERS_DECKS.get(tier1)[i].getName());
+					DECKS.put(Year+" "+Season+" Tier 1 "+TIERS_DECKS.get(tier1)[i].getName(),newPanel);
+				}
+			}
+			if(TIERS_DECKS.containsKey(tier2)) {
+				for(int i=0;i<TIERS_DECKS.get(tier2).length;i++) {
+					JPanel newPanel = createJPanel(2, Year, Season,"Tier 2", TIERS_DECKS.get(tier2)[i].getName());
+					DECKS.put(Year+" "+Season+" Tier 2 "+TIERS_DECKS.get(tier2)[i].getName(),newPanel);
+				}
 			}
 		}
 	}
@@ -216,7 +216,12 @@ public class MetaDecksPanel extends CustomPanel{
 		SeasonList.setBorder(null);
 		SeasonList.setOpaque(false);
 		for(String season : SEASONS.keySet()) {
-			if(season.contains(Year)) SeasonList.add(SEASONS.get(season));
+			if(season.contains(Year)){
+				var seasonPanel = SEASONS.get(season);
+				if(seasonPanel != null) {
+					SeasonList.add(seasonPanel);
+				}
+			}
 		}
 		add(SeasonList,LIST_CONSTRAINTS);
 		/*GO BACK BUTTON*/

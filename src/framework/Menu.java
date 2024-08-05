@@ -1,35 +1,14 @@
 package framework;
 
-import java.awt.BorderLayout;
-import java.awt.Color;
-import java.awt.Graphics;
-import java.awt.Graphics2D;
+import client.Client;
+import resources.RescaledImageIcon;
+
+import javax.swing.*;
+import javax.swing.border.BevelBorder;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
-
-import javax.swing.BorderFactory;
-import javax.swing.ImageIcon;
-import javax.swing.JButton;
-import javax.swing.JComponent;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JMenu;
-import javax.swing.JMenuBar;
-import javax.swing.JMenuItem;
-import javax.swing.JProgressBar;
-import javax.swing.SwingConstants;
-import javax.swing.border.BevelBorder;
-import javax.swing.event.MenuEvent;
-import javax.swing.event.MenuListener;
-import javax.swing.plaf.ButtonUI;
-
-import client.Client;
-import javafx.scene.layout.Border;
-import javafx.scene.layout.BorderImage;
-import javafx.scene.layout.BorderPane;
-import resources.RescaledImageIcon;
 
 public class Menu extends JMenuBar{
 	/*COMPONENTS*/ 

@@ -1,32 +1,15 @@
 package framework;
 
-import java.awt.BorderLayout;
-import java.awt.Color;
-import java.awt.Dimension;
-import java.awt.FlowLayout;
-import java.awt.Font;
-import java.awt.GridLayout;
+import hub.Hub;
+import objects.Card;
+import resources.*;
+
+import javax.swing.*;
+import java.awt.*;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
-
-import javax.swing.ImageIcon;
-import javax.swing.JButton;
-import javax.swing.JLabel;
-import javax.swing.JPanel;
-import javax.swing.JSplitPane;
-
-import javafx.scene.shape.Line;
-import objects.Card;
-import objects.CardType;
-import resources.Alerts;
-import resources.GridLayoutChooser;
-import resources.ReadTXT;
-import resources.RescaledImageIcon;
-import resources.Splitscreen;
-import resources.UseTheLookAndFeelYouWant;
-import hub.Hub;
 
 public class PurchasableDecksPanel extends  JPanel{
 	/*OBJECTS*/
